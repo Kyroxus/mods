@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "money", "count" : 30 }
+  ],
+  "output" : {
+    "item" : "odb2tier1spear_a1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "spear", "all" ]
+}

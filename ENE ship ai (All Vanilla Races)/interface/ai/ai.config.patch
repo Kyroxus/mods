@@ -1,0 +1,15 @@
+[
+
+
+{"op": "replace", "path": "/guiConfig/windowtitle/title", "value":
+        "E.N.E."
+},
+	  
+
+
+
+{"op": "replace", "path": "/guiConfig/windowtitle/subtitle", "value":
+        "Takane Enomoto"
+ }
+	  
+]

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "imperviumcompound", "count" : 11 },
+    { "item" : "odb2tier9shortsword_b1", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "odb2tier10shortsword_b1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "shortsword", "all" ]
+}

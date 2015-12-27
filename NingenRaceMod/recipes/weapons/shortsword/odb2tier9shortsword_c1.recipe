@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "refinedrubium", "count" : 13 },
+    { "item" : "odb2tier8shortsword_c1", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "odb2tier9shortsword_c1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "shortsword", "all" ]
+}

@@ -1,0 +1,72 @@
+[
+  { "op" : "add",
+    "path" : "/scriptConfig/converse/dialog/ningen",
+    "value" : {
+      "default" : [
+        "Hello.",
+        "Hi!",
+        "Hello there!",
+        "Hey, What's up?"
+      ],
+    "apex" : [
+        "Hello, monkey.",
+        "Nice to see you, Apex.",
+        "Wow, you look strong.",
+        "Want a banana?",
+        "Hi, Oh, you look like an ape."
+    ],
+    "human" : [
+        "Hello, Human.",
+        "Good to see you.",
+        "We really look similar.",
+        "The planet Earth. It was so beautiful."
+    ],
+    "avian" : [
+        "Hello, Avian.",
+        "You are very pretty cute!",
+        "Hey, which do you like better, meat or fish?.",
+        "You guys are alright."
+    ],
+    "floran" : [
+        "Hello, Floran.",
+        "What a pretty flower.",
+        "I saw florans simulate field of flowers.",
+        "I have a premonition that something terrible is going to happen."
+    ],
+    "glitch" : [
+        "Hello, a robot.",
+        "Oh cool, Giant Robo.",
+        "I want to know what kind of construction you.",
+        "Can you transform?"
+    ],
+    "hylotl" : [
+        "Hello, Hylotl.",
+        "Ugh, you're all slimy.",
+        "I slightly interested in your culture.",
+        "I'm sorry about the go fishing."
+    ]
+    }
+  },
+
+  { "op" : "add",
+    "path" : "/items/ningen",
+    "value" : [
+      [0, [
+          {
+             "chest" : [
+               { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 4 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 5 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 6 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 7 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "sweatervestchest", "parameters" : { "colorIndex" : 9 } },
+               { "name" : "conceptchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 4 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 5 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 6 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 7 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptchest", "parameters" : { "colorIndex" : 9 } },
+               { "name" : "coolchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 4 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 5 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 6 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 7 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "coolchest", "parameters" : { "colorIndex" : 9 } },
+               { "name" : "workoutchest", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 4 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 5 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 6 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 7 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : 9 } }
+             ],
+
+             "legs" : [
+              { "name" : "conceptlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 4 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 5 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 6 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 7 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "conceptlegs", "parameters" : { "colorIndex" : 9 } },
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 4 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 5 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 6 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 7 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "coollegs", "parameters" : { "colorIndex" : 9 } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 3 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 4 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 5 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 6 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 7 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 8 } }, { "name" : "workoutlegs", "parameters" : { "colorIndex" : 9 } }
+             ]
+          }
+      ]   ]
+    ]
+  }
+]

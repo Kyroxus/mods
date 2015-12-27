@@ -1,0 +1,18 @@
+{
+  "itemName" : "nrmmisosoup",
+  "rarity" : "Rare",
+  "inventoryIcon" : "nrmmisosoup.png",
+  "description" : "[Ningen] Bean paste soup.",
+  "shortdescription" : "Miso Soup",
+  "handPosition" : [-2, -2],
+  "effects" : [ [
+          {
+        "effect" : "foodheal25",
+        "duration" : 60
+    },
+    {
+        "effect" : "wellfed",
+        "duration" : 150
+    }
+    ] ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 2980 }
+  ],
+  "output" : {
+    "item" : "ningenposter1",
+    "count" : 1
+  },
+  "groups" : [ "ningencreator", "objects", "all" ]
+}

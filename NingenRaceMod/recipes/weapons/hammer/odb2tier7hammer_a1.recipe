@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ceruliumcompound", "count" : 18 },
+    { "item" : "odb2tier6hammer_a1", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "odb2tier7hammer_a1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "hammer", "all" ]
+}

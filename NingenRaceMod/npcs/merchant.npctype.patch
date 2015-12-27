@@ -1,0 +1,13 @@
+[
+  { "op" : "add",
+    "path" : "/items/ningen",
+    "value" : [
+      [0, [
+          {
+            "chest" : [ "kimonochest", "monkchest", "traditionalchest", "traineechest" ],
+            "legs" : [ "kimonolegs", "monklegs", "traditionallegs", "traineelegs" ]
+          }
+      ]   ]
+    ]
+  }
+]

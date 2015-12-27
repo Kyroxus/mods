@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 9 },
+    { "item" : "odb2tier3shortsword_a1", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "odb2tier4shortsword_a1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "shortsword", "all" ]
+}

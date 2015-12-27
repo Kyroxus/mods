@@ -1,0 +1,11 @@
+{
+"name" : "ENE ship ai -Ningen",
+"version" : "",
+"path" : ".",
+"dependencies" : ["Ningen Race Mod"],
+"metadata": {
+"author" : "",
+"description" : "",
+"support_url" : ""
+}
+}
