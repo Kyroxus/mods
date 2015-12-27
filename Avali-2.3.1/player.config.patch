@@ -1,0 +1,11 @@
+[
+{ "op" : "add", "path" : "/species/-",
+"value" : "avali"
+},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawneravali" }
+},
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "spawneravaliguard" }
+}
+]
