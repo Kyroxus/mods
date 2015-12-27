@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawfish", "count" : 1 },
-    { "item" : "rice", "count" : 1 }
-  ],
-  "output" : { "item" : "nrmmaguronigiri", "count" : 1 },
-  "groups" : [ "kitchen", "consumables", "entree" ]
-}

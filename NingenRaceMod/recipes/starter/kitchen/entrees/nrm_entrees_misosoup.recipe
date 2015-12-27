@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "pearlpea", "count" : 3 },
-    { "item" : "rice", "count" : 2 }
-  ],
-  "output" : { "item" : "nrmmisosoup", "count" : 1 },
-  "groups" : [ "kitchen", "consumables", "entree" ]
-}

@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 500 }
-  ],
-  "output" : { "item" : "nrmanubishood", "count" : 1 },
-  "groups" : [ "ningencreator", "armor", "head" ]
-}

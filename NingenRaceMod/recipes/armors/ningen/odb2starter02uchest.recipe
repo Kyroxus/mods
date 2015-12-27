@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 1 }
-  ],
-  "output" : { "item" : "odb2starter02uchest", "count" : 1 },
-  "groups" : [ "odb2swordsmith", "armors", "all" ]
-}

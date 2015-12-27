@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "egg", "count" : 1 },
-    { "item" : "rice", "count" : 1 }
-  ],
-  "output" : { "item" : "nrmtamagonigiri", "count" : 1 },
-  "groups" : [ "kitchen", "consumables", "entree" ]
-}
