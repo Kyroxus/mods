@@ -1,0 +1,9 @@
+{
+  "name" : "BohricInstrumentCrafting",
+  "version" : "Beta v. Upbeat Giraffe",
+  "path" : ".",
+  "metadata" : {
+    "author" : "bohric",
+    "description" : "A very simple mod that allows crafting of instruments from pixels."
+  }
+}
