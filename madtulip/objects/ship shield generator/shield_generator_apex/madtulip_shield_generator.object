@@ -1,0 +1,45 @@
+{
+  "objectName" : "madtulip_ship_shield_generator",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "I know it doesn't LOOK like a shield generator...",
+  "shortdescription" : "Ship Shield Generator Apex",
+  "race" : "generic",
+
+  "floranDescription" : "Ssswitch!",
+  "glitchDescription" : "Statement. A small switch.",
+
+  "category" : "wire",
+  "price" : 300,
+
+  "hasObjectItem" : true,
+
+  "inventoryIcon" : "madtulip_ship_shield_generator_icon.png",
+  "orientations" : [
+    {
+      "image" : "madtulip_ship_shield_generator.png:<color>.off",
+      "imagePosition" : [-8, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/lua/madtulip_ship_shield_generator.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/switch/switchtoggle2.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/apexconsole2switch.wav" ],
+      "off" : [ "/sfx/objects/apexconsole2switch.wav" ]
+    }
+  },
+
+  "animationParts" : {
+    "switch" : "madtulip_ship_shield_generator.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "inboundNodes" : [ [-1, 0] ]
+}
