@@ -1,0 +1,7 @@
+[
+  { "op" : "add",
+    "path" : "/species/-",
+    "value" : "connor"
+  },
+  { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "ballgag" } }
+]
