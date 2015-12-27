@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ice", "count" : 350 },
+    { "item" : "rawfish", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "odb2tier3spear_joke1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "spear", "all" ]
+}

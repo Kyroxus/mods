@@ -1,0 +1,44 @@
+{
+  "objectName" : "odb2dayscreen1",
+  "rarity" : "Rare",
+  "category" : "wire",
+  "retainObjectParametersInItem" : true, 
+  "printable" : false,
+  "price" : 1000,
+  "description" : "monitor test.",
+  "shortdescription" : "test Monitor",
+  "race" : "generic",
+
+  "lightColors" : {
+    "default" : [0, 40, 100],
+    "red" : [0, 40, 100],
+    "blue" : [0, 40, 100],
+    "green" : [0, 40, 100],
+    "yellow" : [0, 40, 100],
+    "orange" : [0, 40, 100],
+    "pink" : [0, 40, 100],
+    "black" : [0, 40, 100],
+    "white" : [0, 40, 100]
+  },
+
+  "inventoryIcon" : "odb2dayscreen1icon.png",
+  "orientations" : [
+    {
+      "image" : "odb2dayscreen1.png:<color>.1",
+      "imagePosition" : [-40, -16],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/ningen/wired/switch/odb2windows.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/ningen/wired/switch/odb2windows.animation",
+  "animationParts" : {
+    "switch" : "odb2dayscreen1.png"
+  },
+  "animationPosition" : [-40, -16],
+
+  "outboundNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "odb2swordsmith",
+    "count" : 1
+  },
+  "groups" : [ "plain", "objects", "all", "other" ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "odb2tier3shortsword_b1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "shortsword", "all" ]
+}

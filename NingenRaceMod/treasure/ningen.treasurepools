@@ -1,0 +1,13 @@
+{
+  "ningenStarterTreasure" : [
+    [0, {
+      "fill" : [
+                 { "pool" : "starterTreasure" },
+                 { "item" : [ "humanstarter", 1]},
+                 { "item" : [ "ningencreator", 1]},
+                 { "item" : [ "odb2swordsmith", 1]},
+                 { "item" : [ "odb2tier0broadsword", 1]}
+               ]
+        } ]
+    ]
+}

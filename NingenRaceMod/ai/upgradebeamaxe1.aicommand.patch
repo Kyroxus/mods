@@ -1,0 +1,29 @@
+[
+  { 
+    "op" : "add",
+    "path" : "/speciesText/ningen",
+    "value" : {
+      "buttonText" : "Upgrade M. M. - Power",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;With ^orange;1 manipulator module^white;, I can upgrade your matter manipulator to ^green;increase its mining power a bit^white;. You should be able to ^green;find some by exploring!^green;",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Success! Your matter manipulator has been upgraded with ^green;increased mining power!^green;",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^white;Failure. We'll need ^orange;a manipulator module ^white;to complete this upgrade.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }}
+]

@@ -1,0 +1,8 @@
+{
+	"name" : "Small Extended Race Selection",
+	"metadata" : {
+		"version" : "v2",
+		"author" : "CrispyBlockland",
+		"description" : "Expands the race selection only slightly, for people who only download a few race mods."
+	}
+}

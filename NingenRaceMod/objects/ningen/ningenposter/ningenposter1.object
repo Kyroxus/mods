@@ -1,0 +1,33 @@
+{
+  "objectName" : "ningenposter1",
+  "printable" : false,
+  "rarity" : "Legendary",
+  "category" : "light",
+  "lightColor" : [180, 180, 180],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 1,
+  "unlit" : true,
+  "price" : 2980,
+
+  "description" : "I admire her truly.",
+  "shortdescription" : "Big Ningen Creator Poster",
+  "race" : "apex",
+
+  "inventoryIcon" : "ningenpostericon1.png",
+  "orientations" : [
+    {
+      "image" : "ningenposter1.png:<color>",
+      "imagePosition" : [-16, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.wav"
+
+}

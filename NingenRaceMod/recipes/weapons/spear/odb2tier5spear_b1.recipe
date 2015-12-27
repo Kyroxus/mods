@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 15 },
+    { "item" : "odb2tier4spear_b1", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "odb2tier5spear_b1",
+    "count" : 1
+  },
+  "groups" : [ "odb2swordsmith", "weapons", "spear", "all" ]
+}
