@@ -1,0 +1,9 @@
+{
+  "name" : "goldcrabcritter",
+  "category" : "goldcrabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,24 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 34,
+        "pool" : [ 
+          [ 0.111, "bluebutterflycritter" ],
+          [ 0.111, "enclosedbigwormcritter" ],
+          [ 0.111, "batcritter" ],
+          [ 0.111, "MC_temmiecritter" ],
+          [ 0.111, "MC_mantiscritter" ],
+          [ 0.111, "MC_ladybugcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.14, "MC_flowerpoofincritter" ],
+          [ 0.14, "MC_pinkbutterflycritter" ],
+          [ 0.14, "hummingbirdcritter" ],
+          [ 0.14, "goldbunnycritter" ],
+          [ 0.14, "yellowpetalcritter" ],
+          [ 0.14, "uncommonbowbirdcritter" ],
+          [ 0.14, "enclosedMC_centipedecritter" ]
+        ]
+      }
+}
+]

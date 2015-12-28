@@ -1,0 +1,9 @@
+{
+  "name" : "ibiscritter",
+  "category" : "ibiscritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

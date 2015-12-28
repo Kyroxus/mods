@@ -1,0 +1,34 @@
+{
+  "objectName" : "greenbirdtank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "This bird is a bright green.",
+  "shortdescription" : "Green Bird Critter",
+  "race" : "generic",
+  "apexDescription" : "This bird sports green feathers.",
+  "avianDescription" : "I envy this bird's green wings.",
+  "floranDescription" : "Thisss bird is green like Floran!",
+  "glitchDescription" : "Admiring. This bird is a lovely shade of green.",
+  "humanDescription" : "This bird is a lively green color.",
+  "hylotlDescription" : "This bird has verdant plumage.",
+  "novakidDescription" : "Look at this here funny green bird!",
+
+  "inventoryIcon" : "greenbirdtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "greenbirdtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

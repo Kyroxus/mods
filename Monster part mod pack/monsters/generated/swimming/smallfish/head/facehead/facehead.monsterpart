@@ -1,0 +1,9 @@
+{
+  "name" : "facehead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "facehead.png"
+  }
+}

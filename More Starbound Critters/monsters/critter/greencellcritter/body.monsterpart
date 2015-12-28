@@ -1,0 +1,9 @@
+{
+  "name" : "greencellcritter",
+  "category" : "greencellcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

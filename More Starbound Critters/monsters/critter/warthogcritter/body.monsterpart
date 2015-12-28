@@ -1,0 +1,9 @@
+{
+  "name" : "warthogcritter",
+  "category" : "warthogcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

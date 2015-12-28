@@ -1,0 +1,12 @@
+{
+  "name" : "obe_smallparacreep",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_smallparacreep.png"
+  },
+
+  "parameters" : {
+  }
+}

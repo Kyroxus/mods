@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "redapple", "count" : 1 },
+    { "item" : "plantfibre", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "applegel",
+    "count" : 1
+  },
+  "groups" : [ "mod", "craftingtable", "objects", "tools", "all" ]
+}

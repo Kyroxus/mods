@@ -1,0 +1,9 @@
+{
+  "name" : "dragonflycritter",
+  "category" : "dragonflycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

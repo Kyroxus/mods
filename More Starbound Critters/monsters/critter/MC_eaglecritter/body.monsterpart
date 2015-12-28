@@ -1,0 +1,9 @@
+{
+  "name" : "MC_eaglecritter",
+  "category" : "MC_eaglecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

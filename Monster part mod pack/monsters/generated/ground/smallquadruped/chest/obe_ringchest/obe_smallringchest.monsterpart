@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallringchest",
+  "category" : "smallquadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "obe_smallringchest.png"
+  }
+}

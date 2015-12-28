@@ -1,0 +1,2302 @@
+[
+  {
+  "name" : "enclosedMC_spidercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_spidercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedbigwormcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"bigwormcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "exposedMC_roachcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_roachcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_roachcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_roachcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_monkeycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_monkeycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_mantiscritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_mantiscritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_ladybugcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_ladybugcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_dodocritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"MC_dodocritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_meerkatcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_meerkatcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_monkeycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_monkeycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_moleratcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_moleratcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_roachcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_roachcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_roadrunnercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"MC_roadrunnercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_pinkbutterflycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"MC_pinkbutterflycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_starfishcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_starfishcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "daytimeMC_spidercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_spidercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "daytimeshadowhoundcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"shadowhoundcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "daytimebatcritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.005,
+  "monsterType":"batcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_eaglecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_eaglecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_eaglecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"MC_eaglecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_mushflyercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_mushflyercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_mushcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_mushcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedMC_mushcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_mushcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonTEMPquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"quibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonTEMPgloopcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"gloopcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommongreencellcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"greencellcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_mushfrogcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_mushfrogcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_parrotcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_parrotcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_flyeyecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_flyeyecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_eyewurmcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_eyewurmcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonpterosaurcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"pterosaurcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbrownsquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"brownsquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommoncrystalsquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"crystalsquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonblacksquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"blacksquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommongreysquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"greysquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbluejaycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"bluejaycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbluebirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"bluebirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonredbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"redbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonyellowbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"yellowbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommongreenbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"greenbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonweaselcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"weaselcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonibiscritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"ibiscritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommongreentortoisecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"greentortoisecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsqueekcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"squeekcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonmousecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"mousecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsluggreencritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"sluggreencritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonslugbluecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"slugbluecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonslugcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"slugcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsandquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"sandquibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommontinysandcrocodilecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"tinysandcrocodilecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonexposedtinysandcrocodilecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"tinysandcrocodilecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsnowsnuggetcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"snowsnuggetcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonblipcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"blipcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonmountainblipcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"mountainblipcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbrownblipcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"brownblipcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonleafscabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"leafscabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonpetalcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"petalcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedpetalcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"petalcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonMC_shadowscorpioncritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"MC_shadowscorpioncritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommoneyepodcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"eyepodcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommoneyefriendcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"eyefriendcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommondragonflycritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"dragonflycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonhummingbirdcritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"hummingbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonduckcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"duckcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonarmadillocritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"armadillocritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommontortoisecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"tortoisecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"birdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbowbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"bowbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"bunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonspottedbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"spottedbunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonblackbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"blackbunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonharecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"harecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsnailcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"snailcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbrownsnailcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"brownsnailcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"sporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonredsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"redsporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbrownsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"brownsporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommongreensporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"greensporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommontritrotscritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"tritrotscritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsnowtritrotscritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"snowtritrotscritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonvulturecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"vulturecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsnakecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"snakecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonbrownsnakecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"brownsnakecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonowlcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"night"},
+  "targetDensity":0.0001,
+  "monsterType":"owlcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommongroopcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"groopcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommoncliffcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"cliffcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonfoxcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"foxcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonfawncritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"fawncritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonchevcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.0001,
+  "monsterType":"chevcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "liquidfrogpolecritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"frogpolecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "liquidfishcritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"fishcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "liquidskellyfishcritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"skellyfishcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonsquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"squirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonhedgehogcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.0001,
+  "monsterType":"hedgehogcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonravencritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"ravencritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "uncommonredbreastcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.0001,
+  "monsterType":"redbreastcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "kefkacritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.000001,
+  "monsterType":"kefkacritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "commonkefkacritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"kefkacritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_mooglecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"MC_mooglecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_temmiecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"MC_temmiecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_chocobocritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"MC_chocobocritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "TEMPgloopcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"gloopcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "TEMPquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"quibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedTEMPquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"quibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "TEMPtoucritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"toucritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_spidercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.02,
+  "monsterType":"MC_spidercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "foxcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"foxcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_snowfoxcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_snowfoxcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "wolfhoundcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.01,
+  "monsterType":"wolfhoundcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "shadowhoundcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.01,
+  "monsterType":"shadowhoundcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "toxichoundcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.01,
+  "monsterType":"toxichoundcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "heckhoundcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.01,
+  "monsterType":"heckhoundcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "frosthoundcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.01,
+  "monsterType":"frosthoundcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_eyewurmcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_eyewurmcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_mushfrogcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_mushfrogcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_flowerpoofincritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_flowerpoofincritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_bluewormcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_bluewormcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_yellowwormcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_yellowwormcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_parrotcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"MC_parrotcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_bluelizardcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_bluelizardcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_greenlizardcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_greenlizardcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_redlizardcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_redlizardcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_lizardcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_lizardcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_desertlizardcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_desertlizardcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_flyeyecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_flyeyecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_bloodbagcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_bloodbagcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "killerbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"killerbunnycritter",
+  "monsterParameters":{"aggressive":true}
+},
+  {
+  "name" : "bloodbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"bloodbunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "spottedbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"spottedbunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "blackbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"blackbunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldbunnycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.00001,
+  "monsterType":"goldbunnycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldsealcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"goldsealcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldgloopcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"goldgloopcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldcrabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"goldcrabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldsnooglecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"goldsnooglecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldarmadillocritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"goldarmadillocritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "redsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"redsporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "brownsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"brownsporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greensporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greensporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedredsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"redsporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedbrownsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"brownsporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedgreensporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greensporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedsporelingcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"sporelingcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "blackheadgullcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"blackheadgullcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "firebirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"firebirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "icebirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"icebirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "pterosaurcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"pterosaurcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "seaturtlecritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"seaturtlecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "seahorsecritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"seahorsecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "icejellycritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"icejellycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "lavajellycritter",
+  "spawnParameters":{
+  "area":"liquid",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"lavajellycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "arcticterncritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"arcticterncritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "lavacrabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"lavacrabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greenquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greenquibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedgreenquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greenquibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "fawncritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"fawncritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "pikacritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"pikacritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "snowtritrotscritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"snowtritrotscritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "crystalscabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"crystalscabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_crystalicescabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_crystalicescabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedMC_crystalicescabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_crystalicescabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_centipedecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_centipedecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedMC_centipedecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_centipedecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_shadowscorpioncritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_shadowscorpioncritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "scorpioncritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"scorpioncritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "browncrabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"browncrabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "firesnakecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"firesnakecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "brownsnakecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"brownsnakecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "rustscabcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"rustscabcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "lavaslugcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"lavaslugcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "bloodslugcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"bloodslugcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "mercuryslugcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"mercuryslugcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "tarslugcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"tarslugcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "lavagloopcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"lavagloopcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "oilgloopcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"oilgloopcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "yellowpetalcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"yellowpetalcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "toxicwurmcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"toxicwurmcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "crystalchickcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"crystalchickcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greenchickcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greenchickcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "ocelotcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"ocelotcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "brownsealcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"brownsealcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "penguincritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"penguincritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "snowowlcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"night"},
+  "targetDensity":0.02,
+  "monsterType":"snowowlcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "bluebirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"bluebirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "redbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"redbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "yellowbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"yellowbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greenbirdcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"greenbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "bluejaycritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"bluejaycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "ibiscritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"ibiscritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "weaselcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"weaselcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_snowweaselcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_snowweaselcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greenweaselcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greenweaselcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "plantsnakecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"plantsnakecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "enclosedplantsnakecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"plantsnakecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "largepanthercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"night"},
+  "targetDensity":0.02,
+  "monsterType":"largepanthercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "largealienpanthercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"night"},
+  "targetDensity":0.02,
+  "monsterType":"largealienpanthercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "panthercritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"panthercritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "snowleopardcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"snowleopardcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "yellowsnuggetcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"yellowsnuggetcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "orangesnuggetcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"orangesnuggetcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "redsnuggetcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"redsnuggetcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "bluesnuggetcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"bluesnuggetcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "snowsnuggetcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"snowsnuggetcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "brownsquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"brownsquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "crystalsquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"crystalsquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "blacksquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"blacksquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greysquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"greysquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldsquirrelcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.00001,
+  "monsterType":"goldsquirrelcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "brownsnailcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"brownsnailcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "brownblipcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"brownblipcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "blueblipcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"blueblipcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "mountainblipcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"mountainblipcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greentortoisecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greentortoisecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_bluesnooglecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_bluesnooglecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_greensnooglecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"MC_greensnooglecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "tinybrowncrocodilecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"tinybrowncrocodilecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "tinysandcrocodilecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"tinysandcrocodilecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "sandquibblecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"sandquibblecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "greencellcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"all",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"greencellcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "frostbatcritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.005,
+  "monsterType":"frostbatcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "firebatcritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.005,
+  "monsterType":"firebatcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "batcritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"all",
+  "time":"night"},
+  "targetDensity":0.005,
+  "monsterType":"batcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "dragonflycritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.005,
+  "monsterType":"dragonflycritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "hummingbirdcritter",
+  "spawnParameters":{
+  "area":"air",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.005,
+  "monsterType":"hummingbirdcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "duckcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"duckcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "MC_snowgoosecritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"day"},
+  "targetDensity":0.02,
+  "monsterType":"MC_snowgoosecritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "warthogcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"warthogcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "elephantcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"exposed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"elephantcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "goldtoadcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.00001,
+  "monsterType":"goldtoadcritter",
+  "monsterParameters":{"aggressive":false}
+},
+  {
+  "name" : "toadcritter",
+  "spawnParameters":{
+  "area":"surface",
+  "region":"enclosed",
+  "time":"all"},
+  "targetDensity":0.02,
+  "monsterType":"toadcritter",
+  "monsterParameters":{"aggressive":false}
+}
+]

@@ -1,0 +1,17 @@
+[
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:moderateClumps",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.35, "MS_snowfern1" ], [0.35, "MS_snowfern2" ], [0.35, "MS_snowsapling1" ], [0.35, "MS_snowboulder1" ], [0.35, "MS_snowboulder2" ], [0.35, "MS_snowlog1" ], [0.35, "MS_snowlog2" ], [0.35, "MS_snowstump1" ] ],
+            "parameters" : { }
+          }
+        ]
+      }
+	}
+]

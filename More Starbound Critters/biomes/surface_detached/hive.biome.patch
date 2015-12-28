@@ -1,0 +1,11 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 21,
+        "pool" : [ 
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

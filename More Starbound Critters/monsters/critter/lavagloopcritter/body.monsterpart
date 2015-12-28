@@ -1,0 +1,9 @@
+{
+  "name" : "lavagloopcritter",
+  "category" : "lavagloopcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

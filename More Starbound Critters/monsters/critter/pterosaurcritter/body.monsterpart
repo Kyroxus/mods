@@ -1,0 +1,9 @@
+{
+  "name" : "pterosaurcritter",
+  "category" : "pterosaurcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

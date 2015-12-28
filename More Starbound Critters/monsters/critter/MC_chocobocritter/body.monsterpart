@@ -1,0 +1,9 @@
+{
+  "name" : "MC_chocobocritter",
+  "category" : "MC_chocobocritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

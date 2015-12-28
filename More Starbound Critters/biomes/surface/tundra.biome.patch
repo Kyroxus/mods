@@ -1,0 +1,33 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 42,
+        "pool" : [ 
+          [ 0.111, "MC_snowfoxcritter" ],          
+          [ 0.111, "MC_snowgoosecritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "uncommonsnowsnuggetcritter" ],
+          [ 0.111, "snowowlcritter" ],
+          [ 0.111, "uncommonmountainblipcritter" ],
+          [ 0.111, "frostbatcritter" ],
+          [ 0.111, "frosthoundcritter" ],
+          [ 0.111, "MC_snowweaselcritter" ],
+          [ 0.111, "uncommonsnowtritrotscritter" ],
+          [ 0.111, "uncommoncliffcritter" ],
+          [ 0.111, "goldbunnycritter" ],
+          [ 1, "bunnycritter" ],
+          [ 1, "reasonablecritter" ],
+          [ 1, "crystaltortoisecritter" ],
+          [ 1, "crystalbirdcritter" ],
+          [ 1, "snowflakescritter" ],
+          [ 1, "snowymolecritter" ],
+          [ 1, "snorecritter" ],
+          [ 1, "hollowcritter" ],
+          [ 1, "poofincritter" ],
+          [ 1, "ciclesnailcritter" ]
+
+        ]
+      }
+}
+]

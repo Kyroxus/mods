@@ -1,0 +1,9 @@
+{
+  "name" : "tinysandcrocodilecritter",
+  "category" : "tinysandcrocodilecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

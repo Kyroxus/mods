@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallflailtail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_smallflailtail.png"
+  }
+}

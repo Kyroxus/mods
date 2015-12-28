@@ -1,0 +1,34 @@
+{
+  "objectName" : "chocobotank",
+  "colonyTags" : ["critters","crittercages","finalfantasy","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A chocobo. Wark!",
+  "shortdescription" : "Chocobo",
+  "race" : "generic",
+  "apexDescription" : "This chocobo has been tamed.",
+  "avianDescription" : "This chocobo is tamed.",
+  "floranDescription" : "Floran likesss chocobo!",
+  "glitchDescription" : "Curious. This creature enjoys gysahl greens.",
+  "humanDescription" : "This chocobo would like to be in a field or a forest.",
+  "hylotlDescription" : "Chocobos are rare creatures.",
+  "novakidDescription" : "There's a pesky chocobo here.",
+
+  "inventoryIcon" : "chocobotankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "chocobotank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

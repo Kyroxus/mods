@@ -1,0 +1,15 @@
+{
+  "name" : "obe_smallbulbmouth",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "obe_smallbulbmouth.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -1.25]
+  }
+}

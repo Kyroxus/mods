@@ -1,0 +1,9 @@
+{
+  "name" : "goldsealcritter",
+  "category" : "goldsealcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

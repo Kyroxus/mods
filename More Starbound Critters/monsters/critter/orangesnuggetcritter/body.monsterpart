@@ -1,0 +1,9 @@
+{
+  "name" : "orangesnuggetcritter",
+  "category" : "orangesnuggetcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

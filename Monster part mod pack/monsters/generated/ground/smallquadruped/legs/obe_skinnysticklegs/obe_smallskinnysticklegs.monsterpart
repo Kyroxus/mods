@@ -1,0 +1,16 @@
+{
+  "name" : "obe_smallskinnysticklegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "obe_smallskinnystickflegs.png",
+    "backLegs" : "obe_smallskinnystickblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.7,
+    "runMultiplier" : 1.1,
+    "jumpMultiplier" : 0.8
+  }
+}

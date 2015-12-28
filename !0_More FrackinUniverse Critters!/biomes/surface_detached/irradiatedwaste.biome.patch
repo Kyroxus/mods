@@ -1,0 +1,21 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 11,
+        "pool" : [ 
+          [ 0.111, "exposedMC_roachcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "uncommongreencellcritter" ],          
+          [ 0.111, "toxichoundcritter" ],
+          [ 0.111, "TEMPgloopcritter" ],
+          [ 0.111, "toxicwurmcritter" ],
+          [ 0.111, "goldgloopcritter" ],
+          [ 0.111, "toxiccrabcritter" ],
+          [ 0.111, "ballooncritter" ],
+          [ 0.111, "bouncercritter" ],
+          [ 0.111, "hazmatcritter" ]
+        ]
+      }
+}
+]

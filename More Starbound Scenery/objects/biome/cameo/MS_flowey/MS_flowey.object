@@ -1,0 +1,32 @@
+{
+  "objectName" : "MS_flowey",
+  "colonyTags" : ["undertale","flowey"],
+  "printable" : true,
+  "rarity" : "Common",
+  "category" : "decorative",
+
+  "description" : "A golden flower with a face? Hmm, there's something evil about it...",
+  "shortdescription" : "Flowey",
+  "race" : "apex",
+
+  "apexDescription" : "This golden flower is a little creepy.",
+  "avianDescription" : "This golden flower is grinning creepily at me...",
+  "floranDescription" : "Flower sssays, kill or be killed!",
+  "glitchDescription" : "Dread. This golden flower is filled with malevolent determination.",
+  "humanDescription" : "This gold flower is telling me to catch its pellets. I have a bad feelings about this...",
+  "hylotlDescription" : "This gold flower is hiding something behind its facade of cuteness...",
+
+  "inventoryIcon" : "MS_floweyicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "MS_flowey.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

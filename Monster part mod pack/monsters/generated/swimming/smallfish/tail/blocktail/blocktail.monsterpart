@@ -1,0 +1,9 @@
+{
+  "name" : "blocktail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "blocktail.png"
+  }
+}

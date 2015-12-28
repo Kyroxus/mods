@@ -1,0 +1,13 @@
+{
+  "name" : "obe_smallplatefinhead",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_smallplatefinhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

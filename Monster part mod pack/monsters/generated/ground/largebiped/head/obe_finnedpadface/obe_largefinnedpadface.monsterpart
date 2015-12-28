@@ -1,0 +1,13 @@
+{
+  "name" : "obe_largefinnedpadface",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_largefinnedpadface.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "objectName" : "MS_cactus2",
+  "colonyTags" : ["desert"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "pot",
+
+  "description" : "The cactus, truly the most tsundere of plants.",
+  "shortdescription" : "Cactus",
+  "race" : "apex",
+
+  "apexDescription" : "A cactus.",
+  "avianDescription" : "A cactus.",
+  "floranDescription" : "A cactus.",
+  "glitchDescription" : "Statement. A cactus.",
+  "humanDescription" : "A cactus.",
+  "hylotlDescription" : "A cactus.",
+
+  "inventoryIcon" : "capsulebigicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "MS_cactus2.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "smashable" : true,
+  "smashSounds" : [ "/sfx/objects/plant_break1.ogg", "/sfx/objects/plant_break2.ogg", "/sfx/objects/plant_break3.ogg", "/sfx/objects/plant_break4.ogg", "/sfx/objects/plant_break5.ogg", "/sfx/objects/plant_break6.ogg" ],
+  "smashParticles" : [ { "count" : 3, "particle" : "plantshard" } ],
+    "maxImmersion" : 0.125
+}

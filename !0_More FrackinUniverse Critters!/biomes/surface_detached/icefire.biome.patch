@@ -1,0 +1,26 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 17,
+        "pool" : [ 
+          [ 0.111, "lavacrabcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "lavagloopcritter" ],          
+          [ 0.111, "lavaslugcritter" ],
+          [ 0.111, "firesnakecritter" ],
+          [ 0.111, "firebirdcritter" ],
+          [ 0.111, "firebatcritter" ],
+          [ 0.111, "lavajellycritter" ],
+          [ 0.111, "goldcrabcritter" ],
+          [ 0.111, "frostbatcritter" ],
+          [ 0.111, "frosthoundcritter" ],
+          [ 0.111, "MC_crystalicescabcritter" ],
+          [ 0.111, "icebirdcritter" ],
+          [ 0.111, "bluesnuggetcritter" ],
+          [ 0.111, "crystalsquirrelcritter" ],
+          [ 0.111, "crystalchickcritter" ]
+        ]
+      }
+}
+]

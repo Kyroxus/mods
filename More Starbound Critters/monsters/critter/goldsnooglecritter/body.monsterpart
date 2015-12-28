@@ -1,0 +1,9 @@
+{
+  "name" : "goldsnooglecritter",
+  "category" : "goldsnooglecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

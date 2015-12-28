@@ -1,0 +1,22 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 32,
+        "pool" : [ 
+          [ 0.111, "batcritter" ],
+          [ 0.111, "MC_centipedecritter" ],
+          [ 0.111, "liquidskellyfishcritter" ],
+          [ 0.111, "scorpioncritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.14, "vulturecritter" ],
+          [ 0.14, "apexscabcritter" ],
+          [ 0.14, "avianscabcritter" ],
+          [ 0.14, "floranscabcritter" ],
+          [ 0.14, "humanscabcritter" ],
+          [ 0.14, "glitchscabcritter" ],
+          [ 0.14, "penguinscabcritter" ]
+        ]
+      }
+}
+]

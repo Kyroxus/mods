@@ -1,0 +1,9 @@
+{
+  "name" : "lavacrabcritter",
+  "category" : "lavacrabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

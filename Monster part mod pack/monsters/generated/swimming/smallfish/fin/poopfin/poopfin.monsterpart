@@ -1,0 +1,9 @@
+{
+  "name" : "poopfin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "poopfin.png"
+  }
+}

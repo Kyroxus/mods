@@ -1,0 +1,9 @@
+{
+  "name" : "kefkacritter",
+  "category" : "kefkacritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

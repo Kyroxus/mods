@@ -1,0 +1,9 @@
+{
+  "name" : "hummingbirdcritter",
+  "category" : "hummingbirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

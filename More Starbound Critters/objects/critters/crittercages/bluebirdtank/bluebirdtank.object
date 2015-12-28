@@ -1,0 +1,34 @@
+{
+  "objectName" : "bluebirdtank",
+  "colonyTags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Bluebird Critter",
+  "race" : "generic",
+  "apexDescription" : "This bluebird sings despite being tamed.",
+  "avianDescription" : "Kluex is said to have created the bluebird after a flood.",
+  "floranDescription" : "Mmm, doesss bluebird have blue eggsss?",
+  "glitchDescription" : "Pitiful. Bioscanners indicate bluebird wants birdseed.",
+  "humanDescription" : "A bluebird of happiness!",
+  "hylotlDescription" : "A blue hued bird of marvelous color.",
+  "novakidDescription" : "I used to see them bluebirds all the time at grandma's garden.",
+
+  "inventoryIcon" : "bluebirdtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bluebirdtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

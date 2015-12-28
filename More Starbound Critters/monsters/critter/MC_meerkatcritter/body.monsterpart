@@ -1,0 +1,9 @@
+{
+  "name" : "MC_meerkatcritter",
+  "category" : "MC_meerkatcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallpropellerbirdtail",
+  "category" : "smallflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "obe_smallpropellerbirdtail.png"
+  }
+}

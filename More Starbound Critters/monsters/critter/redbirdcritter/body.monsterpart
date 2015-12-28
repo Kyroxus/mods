@@ -1,0 +1,9 @@
+{
+  "name" : "redbirdcritter",
+  "category" : "redbirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

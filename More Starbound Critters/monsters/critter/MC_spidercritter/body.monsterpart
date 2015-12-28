@@ -1,0 +1,9 @@
+{
+  "name" : "MC_spidercritter",
+  "category" : "MC_spidercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

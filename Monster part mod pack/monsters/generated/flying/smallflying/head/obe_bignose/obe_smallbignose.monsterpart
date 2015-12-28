@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallbignose",
+  "category" : "smallflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_smallbignose.png"
+  }
+}

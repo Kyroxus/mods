@@ -1,0 +1,16 @@
+{
+  "itemName" : "lemongel",
+  "rarity" : "Common",
+  "inventoryIcon" : "lemongel.png",
+  "description" : "Lemon Gel, restores 60 health.",
+  "shortdescription" : "Lemon Gel",
+  "handPosition" : [0, 11],
+  "effects" : [ [
+      {
+        "effect" : "regeneration4",
+        "duration" : 20
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "drinkinghealing" ]
+}

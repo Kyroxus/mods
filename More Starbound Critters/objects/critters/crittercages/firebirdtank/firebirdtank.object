@@ -1,0 +1,34 @@
+{
+  "objectName" : "firebirdtank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "Phoenixes are legendary birds found on fiery planets.",
+  "shortdescription" : "Phoenix Critter",
+  "race" : "generic",
+  "apexDescription" : "Phoenixes can revert back to their youth through a cellular process called transdifferentiation.",
+  "avianDescription" : "The phoenix is a sacred bird that symbolizes rebirth.",
+  "floranDescription" : "Mmm, hot chickensss!",
+  "glitchDescription" : "Awe. This animal possesses negligible senescence, and is immortal.",
+  "humanDescription" : "I wonder if the phoenix is still the same bird after its rebirth?",
+  "hylotlDescription" : "Phoenixes may be immortal, but their shed feathers still lose their sheen over time. Which means new feathers must always be harvested for decor.",
+  "novakidDescription" : "These fiery critters never lose them flames, they just burst into a new hatchling when they gets old.",
+
+  "inventoryIcon" : "firebirdtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "firebirdtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

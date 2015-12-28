@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largebladesstripes",
+  "category" : "largequadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "obe_largebladesstripes.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "obe_largetwotoelegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "obe_largetwotoeflegs.png",
+    "backLegs" : "obe_largetwotoeblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.9,
+    "runMultiplier" : 1.1,
+    "jumpMultiplier" : 1.0
+  }
+}

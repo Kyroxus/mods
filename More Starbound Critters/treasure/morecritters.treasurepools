@@ -1,0 +1,1503 @@
+{
+  "ladybugcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "ladybugtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mantiscritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "mantistank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "dodocritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "dodotank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "pinkbutterflycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "pinkbutterflytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "temmiecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "temmietank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "starfishcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "starfishtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greensnooglecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greensnoogletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bluesnooglecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluesnoogletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowgoosecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowgoosetank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowweaselcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowweaseltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "meerkatcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "meerkattank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "monkeycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "monkeytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mushcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "mushtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mushflyercritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "mushflyertank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "eaglecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "eagletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "chocobocritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "chocobotank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "moleratcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "molerattank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "roachcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "roachtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "roadrunnercritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "roadrunnertank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "parrotcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "parrottank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bluewormcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluewormtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "yellowwormcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "yellowwormtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "flowerpoofincritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "flowerpoofintank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bluelizardcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluelizardtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greenlizardcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greenlizardtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "redlizardcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "redlizardtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bloodbagcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bloodbagtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "centipedecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "centipedetank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "shadowscorpioncritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "shadowscorpiontank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowfoxcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowfoxtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mooglecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "moogletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "desertlizardcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "desertlizardtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "lizardcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "lizardtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mushfrogcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "mushfrogtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "spidercritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "spidertank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "eyewurmcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "eyewurmtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "flyeyecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "flyeyetank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "warthogcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "warthogtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "yellowpetalcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "yellowpetaltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "tinysandcrocodilecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "tinysandcrocodiletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "tinybrowncrocodilecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "tinybrowncrocodiletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowtritrotscritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowtritrotstank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowowlcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowowltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "scorpioncritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "scorpiontank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "pterosaurcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "pterosaurtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "plantsnakecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "plantsnaketank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "pikacritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "pikatank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "penguincritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "penguintank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowleopardcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowleopardtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "panthercritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "panthertank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "ocelotcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "ocelottank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "largepanthercritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "largepanthertank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "largealienpanthercritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "largealienpanthertank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greenweaselcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greenweaseltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "weaselcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "weaseltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greentortoisecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greentortoisetank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greencellcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greencelltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldsnooglecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldsnoogletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldarmadillocritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldarmadillotank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "rustscabcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "rustscabtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "crystalicescabcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "crystalicescabtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "crystalscabcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "crystalscabtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "crystalchickcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "crystalchicktank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greenchickcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greenchicktank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "fawncritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "fawntank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "elephantcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "elephanttank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "duckcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "ducktank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldsealcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldsealtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "brownsealcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "brownsealtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldcrabcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldcrabtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "lavacrabcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "lavacrabtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "browncrabcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "browncrabtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "brownsnakecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "brownsnaketank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "firesnakecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "firesnaketank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "hummingbirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "hummingbirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "dragonflycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "dragonflytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "yellowsnuggetcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "yellowsnuggettank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "orangesnuggetcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "orangesnuggettank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "redsnuggetcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "redsnuggettank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "snowsnuggetcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "snowsnuggettank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bluesnuggetcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluesnuggettank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "blueblipcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluebliptank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mountainblipcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "mountainbliptank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "frosthoundcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "frosthoundtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "heckhoundcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "heckhoundtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "shadowhoundcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "shadowhoundtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "toxichoundcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "toxichoundtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "wolfhoundcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "wolfhoundtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "foxcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "foxtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "batcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "battank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "firebatcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "firebattank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "frostbatcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "frostbattank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "arcticterncritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "arcticterntank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "toxicwurmcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "toxicwurmtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldtoadcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldtoadtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "toadcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "toadtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "icebirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "icebirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "firebirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "firebirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greensporelingcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greensporelingtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "redsporelingcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "redsporelingtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "brownsporelingcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "brownsporelingtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "brownsnailcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "brownsnailtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "brownblipcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "brownbliptank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "blackheadgullcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "blackheadgulltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "oilgloopcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "oilglooptank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "lavagloopcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "lavaglooptank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldgloopcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldglooptank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "icejellycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "icejellytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "lavajellycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "lavajellytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "seaturtlecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "seaturtletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "seahorsecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "seahorsetank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bloodslugcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bloodslugtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "lavaslugcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "lavaslugtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "mercuryslugcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "mercuryslugtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "tarslugcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "tarslugtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "killerbunnycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "killerbunnytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "blackbunnycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "blackbunnytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bloodbunnycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bloodbunnytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "spottedbunnycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "spottedbunnytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldbunnycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldbunnytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "brownsquirrelcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "brownsquirreltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greysquirrelcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greysquirreltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "blacksquirrelcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "blacksquirreltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "goldsquirrelcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "goldsquirreltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "crystalsquirrelcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "crystalsquirreltank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "sandquibblecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "sandquibbletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greenquibblecritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greenquibbletank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "ibiscritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "ibistank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bluebirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluebirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "redbirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "redbirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "yellowbirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "yellowbirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "greenbirdcritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "greenbirdtank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "bluejaycritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "bluejaytank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "kefkacritter" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "kefkatank", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  "kefkatreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1, "item" : [ "kefkacritterhead", 1]},
+        {"weight" : 1, "item" : [ "kefkacritterchest", 1]},
+        {"weight" : 1, "item" : [ "kefkacritterlegs", 1]},
+        {"weight" : 1, "item" : [ "kefkacrittercape", 1]}
+      ],
+      "poolRounds" : [
+        [1, 20]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  "goldCritterTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "money"},
+        {"weight" : 1.0, "item" : "goldore"}
+      ],
+      "poolRounds" : [
+        [0.99, 1],
+        [0.50, 2]
+      ],
+      "allowDuplication" : true
+    }]
+]
+}

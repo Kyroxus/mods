@@ -1,0 +1,9 @@
+{
+  "name" : "greenbirdcritter",
+  "category" : "greenbirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

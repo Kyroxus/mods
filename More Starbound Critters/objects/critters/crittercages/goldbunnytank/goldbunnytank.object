@@ -1,0 +1,34 @@
+{
+  "objectName" : "goldbunnytank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Gold Bunny Critter",
+  "race" : "generic",
+  "apexDescription" : "What a valuable gold rabbit!",
+  "avianDescription" : "Heretical scriptures mention something about Kluex taking the form of a golden rabbit...",
+  "floranDescription" : "Floran like sssshiny bunny!",
+  "glitchDescription" : "Amazed. A rabbit with a solid gold coat.",
+  "humanDescription" : "A very rare golden rabbit.",
+  "hylotlDescription" : "This rabbit's golden pelt is quite valuable.",
+  "novakidDescription" : "My grandpappy said he caught a golden rabbit once, but I didn't believe him until now!",
+
+  "inventoryIcon" : "goldbunnytankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "goldbunnytank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

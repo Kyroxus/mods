@@ -1,0 +1,18 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 32,
+        "pool" : [
+          [ 0.111, "frostbatcritter" ],
+          [ 0.111, "frosthoundcritter" ],
+          [ 0.111, "MC_crystalicescabcritter" ],
+          [ 0.111, "icebirdcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.14, "bluesnuggetcritter" ],
+          [ 0.14, "crystalsquirrelcritter" ],
+          [ 0.14, "crystalchickcritter" ]
+        ]
+      }
+}
+]

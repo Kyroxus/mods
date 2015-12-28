@@ -1,0 +1,9 @@
+{
+  "name" : "icejellycritter",
+  "category" : "icejellycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

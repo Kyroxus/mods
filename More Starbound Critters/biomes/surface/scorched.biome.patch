@@ -1,0 +1,24 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 34,
+        "pool" : [ 
+          [ 0.111, "MC_roachcritter" ],          
+          [ 0.111, "uncommontritrotscritter" ],
+          [ 0.111, "vulturecritter" ],
+          [ 0.111, "MC_desertlizardcritter" ],
+          [ 0.111, "scorpioncritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "sandquibblecritter" ],          
+          [ 0.111, "deserttortoisecritter" ],
+          [ 0.111, "uncommonsnakecritter" ],
+          [ 0.111, "brownsnakecritter" ],
+          [ 0.111, "batcritter" ],
+          [ 0.111, "wolfhoundcritter" ],
+          [ 0.111, "goldarmadillocritter" ],
+          [ 0.111, "uncommonarmadillocritter" ]
+        ]
+      }
+}
+]

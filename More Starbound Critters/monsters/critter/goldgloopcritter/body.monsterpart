@@ -1,0 +1,9 @@
+{
+  "name" : "goldgloopcritter",
+  "category" : "goldgloopcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

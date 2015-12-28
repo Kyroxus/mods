@@ -1,0 +1,10 @@
+{
+  "name" : "obe_smallarmpadfingers",
+  "category" : "smallbiped",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "obe_smallfarmpadfingers.png",
+    "backArm" : "obe_smallbarmpadfingers.png"
+  }
+}

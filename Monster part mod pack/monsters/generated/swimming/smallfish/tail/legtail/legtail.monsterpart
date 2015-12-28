@@ -1,0 +1,9 @@
+{
+  "name" : "legtail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "legtail.png"
+  }
+}

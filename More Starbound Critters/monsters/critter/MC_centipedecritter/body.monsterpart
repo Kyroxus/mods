@@ -1,0 +1,9 @@
+{
+  "name" : "MC_centipedecritter",
+  "category" : "MC_centipedecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

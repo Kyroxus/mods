@@ -1,0 +1,16 @@
+{
+  "name" : "obe_smalltwotoelegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "obe_smalltwotoeflegs.png",
+    "backLegs" : "obe_smalltwotoeblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.9,
+    "runMultiplier" : 1.1,
+    "jumpMultiplier" : 1.0
+  }
+}

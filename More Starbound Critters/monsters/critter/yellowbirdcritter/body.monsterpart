@@ -1,0 +1,9 @@
+{
+  "name" : "yellowbirdcritter",
+  "category" : "yellowbirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

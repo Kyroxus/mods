@@ -1,0 +1,9 @@
+{
+  "name" : "brownsnailcritter",
+  "category" : "brownsnailcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

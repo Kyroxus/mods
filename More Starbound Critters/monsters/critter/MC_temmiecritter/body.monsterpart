@@ -1,0 +1,9 @@
+{
+  "name" : "MC_temmiecritter",
+  "category" : "MC_temmiecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

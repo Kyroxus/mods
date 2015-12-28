@@ -1,0 +1,40 @@
+{
+  "objectName" : "MS_forestfern1",
+  "tags" : ["forest"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "pot",
+
+  "description" : "A fern.",
+  "shortdescription" : "Fern",
+  "race" : "apex",
+
+  "apexDescription" : "A fern.",
+  "avianDescription" : "A fern.",
+  "floranDescription" : "A fern.",
+  "glitchDescription" : "Statement. A fern.",
+  "humanDescription" : "A fern.",
+  "hylotlDescription" : "A fern.",
+
+  "inventoryIcon" : "capsulebigicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "MS_forestfern1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "smashable" : true,
+  "smashSounds" : [ "/sfx/objects/plant_break1.ogg", "/sfx/objects/plant_break2.ogg", "/sfx/objects/plant_break3.ogg", "/sfx/objects/plant_break4.ogg", "/sfx/objects/plant_break5.ogg", "/sfx/objects/plant_break6.ogg" ],
+  "smashParticles" : [ { "count" : 3, "particle" : "plantshard" } ],
+  "smashDropOptions" : [
+    [ [ "plantfibre", 1, { } ] ]
+  ],
+    "maxImmersion" : 0.125
+}
+

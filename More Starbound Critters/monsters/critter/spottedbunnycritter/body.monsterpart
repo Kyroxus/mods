@@ -1,0 +1,9 @@
+{
+  "name" : "spottedbunnycritter",
+  "category" : "spottedbunnycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

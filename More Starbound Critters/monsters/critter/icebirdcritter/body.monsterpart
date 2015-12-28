@@ -1,0 +1,9 @@
+{
+  "name" : "icebirdcritter",
+  "category" : "icebirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

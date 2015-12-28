@@ -1,0 +1,9 @@
+{
+  "name" : "firebirdcritter",
+  "category" : "firebirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "MC_greenlizardcritter",
+  "category" : "MC_greenlizardcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

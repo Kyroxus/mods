@@ -1,0 +1,14 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 6,
+        "pool" : [ 
+          [ 0.111, "TEMPgloopcritter" ],
+          [ 0.111, "goldgloopcritter" ],
+          [ 0.111, "greencellcritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

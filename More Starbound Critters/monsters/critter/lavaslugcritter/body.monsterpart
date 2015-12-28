@@ -1,0 +1,9 @@
+{
+  "name" : "lavaslugcritter",
+  "category" : "lavaslugcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

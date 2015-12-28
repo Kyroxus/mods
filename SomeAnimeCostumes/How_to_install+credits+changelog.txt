@@ -1,0 +1,16 @@
+---
+Version 2:
+-Updated to Pleased Giraffe.
+
+---
+Version 1:
+-Initial Release.
+
+---
+Copy/cut and paste SomeAnimeCostumes.modpack to this location for PC:
+C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\mods
+
+---
+Credits:
+All credits for the characters go to their respective owners and creators.
+SomeRandomPerson - Recoloring and some coding.

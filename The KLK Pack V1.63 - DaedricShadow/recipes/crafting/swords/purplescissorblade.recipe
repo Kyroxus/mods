@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "hardenedlifefiber", "count" : 5 }
+  ],  
+  "output" : { "item" : "purplescissorblade", "count" : 1 },
+  "groups" : [ "fibercraftingtable", "weapons" ]
+}

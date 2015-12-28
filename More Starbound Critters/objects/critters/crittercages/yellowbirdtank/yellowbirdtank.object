@@ -1,0 +1,34 @@
+{
+  "objectName" : "yellowbirdtank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Canary Critter",
+  "race" : "generic",
+  "apexDescription" : "I know why the caged bird sings.",
+  "avianDescription" : "Canaries got their beautiful voice from Kluex.",
+  "floranDescription" : "I want to lisssten rather than eat canary.",
+  "glitchDescription" : "Pleased. This canary sings beautifully.",
+  "humanDescription" : "This canary comes from the Canary Islands!",
+  "hylotlDescription" : "Canaries make wonderful pets because of their voice.",
+  "novakidDescription" : "They use canaries in coal mines to check the air quality.",
+
+  "inventoryIcon" : "yellowbirdtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "yellowbirdtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

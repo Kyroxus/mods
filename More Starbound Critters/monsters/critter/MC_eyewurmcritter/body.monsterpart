@@ -1,0 +1,9 @@
+{
+  "name" : "MC_eyewurmcritter",
+  "category" : "MC_eyewurmcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

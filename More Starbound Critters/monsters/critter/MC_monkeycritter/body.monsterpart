@@ -1,0 +1,9 @@
+{
+  "name" : "MC_monkeycritter",
+  "category" : "MC_monkeycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

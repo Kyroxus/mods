@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largebignose",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_largebignose.png"
+  }
+}

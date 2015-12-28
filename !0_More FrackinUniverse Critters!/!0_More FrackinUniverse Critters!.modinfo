@@ -1,0 +1,12 @@
+{
+  "name" : "!0_More FrackinUniverse Critters!",
+  "version" : "",
+  "path" : ".",
+"includes" : ["FrackinUniverse"],
+  "dependencies" : [],
+  "metadata": {
+    "author" : "",
+    "description" : "Adds more critters.",
+    "support_url" : ""
+  }
+}

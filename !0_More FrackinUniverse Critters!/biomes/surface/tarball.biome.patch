@@ -1,0 +1,16 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 6,
+        "pool" : [ 
+          [ 0.111, "batcritter" ],
+          [ 0.111, "shadowhoundcritter" ],
+          [ 0.111, "oilgloopcritter" ],
+          [ 0.111, "goldgloopcritter" ],
+          [ 0.111, "tarslugcritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

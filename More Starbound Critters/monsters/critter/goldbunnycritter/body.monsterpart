@@ -1,0 +1,9 @@
+{
+  "name" : "goldbunnycritter",
+  "category" : "goldbunnycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

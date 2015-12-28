@@ -1,0 +1,12 @@
+[
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "redscissorblade" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "purplescissorblade" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "lifefiber" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "fibercraftingtable" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "gokustarcloth" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "hardenedlifefiber" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "uniformshirt" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "uniformlegs" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "senketsuinactivechest" }},
+	{"op": "add" , "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "senketsuinactivelegs" }}
+]

@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largefraytail",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_largefraytail.png"
+  }
+}

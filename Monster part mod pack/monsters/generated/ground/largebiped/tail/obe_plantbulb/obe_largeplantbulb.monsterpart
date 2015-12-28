@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largeplantbulb",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_largeplantbulb.png"
+  }
+}

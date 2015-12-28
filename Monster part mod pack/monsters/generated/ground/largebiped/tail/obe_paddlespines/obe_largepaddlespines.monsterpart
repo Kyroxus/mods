@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largepaddlespines",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_largepaddlespines.png"
+  }
+}

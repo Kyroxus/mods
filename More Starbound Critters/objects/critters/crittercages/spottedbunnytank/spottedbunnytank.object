@@ -1,0 +1,34 @@
+{
+  "objectName" : "spottedbunnytank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Spotted Bunny Critter",
+  "race" : "generic",
+  "apexDescription" : "This rabbit has a spotted coat.",
+  "avianDescription" : "A pesky rabbit.",
+  "floranDescription" : "Floran like bunniesss!",
+  "glitchDescription" : "Cautious. Don't put two rabbits of differing genders in the same area.",
+  "humanDescription" : "What a cute bunny!",
+  "hylotlDescription" : "This sleek rabbit has a spotted pelt.",
+  "novakidDescription" : "These pesky varmints are always eatin' my carrots!",
+
+  "inventoryIcon" : "spottedbunnytankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "spottedbunnytank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

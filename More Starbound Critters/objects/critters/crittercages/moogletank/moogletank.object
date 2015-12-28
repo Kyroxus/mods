@@ -1,0 +1,34 @@
+{
+  "objectName" : "moogletank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A moogle. Kupo!",
+  "shortdescription" : "Moogle",
+  "race" : "generic",
+  "apexDescription" : "This moogle has been tamed.",
+  "avianDescription" : "This moogle is tamed.",
+  "floranDescription" : "Floran likesss moogle!",
+  "glitchDescription" : "Curious. This creature enjoys kupo nuts.",
+  "humanDescription" : "This moogle would like to be in a cave or a forest.",
+  "hylotlDescription" : "Moogles are rare beings that like in caverns.",
+  "novakidDescription" : "There's a pesky moogle here.",
+
+  "inventoryIcon" : "moogletankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "moogletank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

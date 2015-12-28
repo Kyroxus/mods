@@ -1,0 +1,9 @@
+{
+  "name" : "MC_ladybugcritter",
+  "category" : "MC_ladybugcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

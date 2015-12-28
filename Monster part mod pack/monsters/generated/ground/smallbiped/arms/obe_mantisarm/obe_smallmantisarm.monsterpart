@@ -1,0 +1,10 @@
+{
+  "name" : "obe_smallmantisarm",
+  "category" : "smallbiped",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "obe_smallmantisfarm.png",
+    "backArm" : "obe_smallmantisbarm.png"
+  }
+}

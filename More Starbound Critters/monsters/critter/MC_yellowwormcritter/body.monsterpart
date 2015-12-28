@@ -1,0 +1,9 @@
+{
+  "name" : "MC_yellowwormcritter",
+  "category" : "MC_yellowwormcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "blackbunnycritter",
+  "category" : "blackbunnycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "MC_pinkbutterflycritter",
+  "category" : "MC_pinkbutterflycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

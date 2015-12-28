@@ -1,0 +1,9 @@
+{
+  "name" : "goldtoadcritter",
+  "category" : "goldtoadcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

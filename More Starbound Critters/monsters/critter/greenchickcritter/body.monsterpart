@@ -1,0 +1,9 @@
+{
+  "name" : "greenchickcritter",
+  "category" : "greenchickcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

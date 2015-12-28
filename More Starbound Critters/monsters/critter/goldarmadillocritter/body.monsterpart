@@ -1,0 +1,9 @@
+{
+  "name" : "goldarmadillocritter",
+  "category" : "goldarmadillocritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

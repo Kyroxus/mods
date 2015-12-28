@@ -1,0 +1,10 @@
+{
+  "name" : "obe_smallspikedballarm",
+  "category" : "smallbiped",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "obe_smallspikedballfarm.png",
+    "backArm" : "obe_smallspikedballbarm.png"
+  }
+}

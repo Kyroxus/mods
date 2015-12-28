@@ -1,0 +1,9 @@
+{
+  "name" : "firesnakecritter",
+  "category" : "firesnakecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

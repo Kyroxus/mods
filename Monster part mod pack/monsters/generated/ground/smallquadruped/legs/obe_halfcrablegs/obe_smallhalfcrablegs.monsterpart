@@ -1,0 +1,16 @@
+{
+  "name" : "obe_smallhalfcrablegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "obe_smallhalfcrabflegs.png",
+    "backLegs" : "obe_smallhalfcrabblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.6,
+    "runMultiplier" : 1.1,
+    "jumpMultiplier" : 1.0
+  }
+}

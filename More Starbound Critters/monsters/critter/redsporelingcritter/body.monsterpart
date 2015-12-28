@@ -1,0 +1,9 @@
+{
+  "name" : "redsporelingcritter",
+  "category" : "redsporelingcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

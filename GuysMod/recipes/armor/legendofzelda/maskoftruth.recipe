@@ -1,0 +1,8 @@
+{
+  "input" : [
+	{ "item" : "fabric",   "count" : 10}
+  ],
+  "output" : { "item" : "maskoftruth", "count" : 1 },
+  "groups" : [ "spinningwheel", "armors", "all" ]
+}
+

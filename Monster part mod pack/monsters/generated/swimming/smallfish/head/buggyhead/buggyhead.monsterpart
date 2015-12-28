@@ -1,0 +1,9 @@
+{
+  "name" : "buggyhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "buggyhead.png"
+  }
+}

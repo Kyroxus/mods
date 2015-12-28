@@ -1,0 +1,34 @@
+{
+  "objectName" : "goldsquirreltank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Gold Squirrel Critter",
+  "race" : "generic",
+  "apexDescription" : "What a rare golden squirrel!",
+  "avianDescription" : "This squirrel seems to have golden fur.",
+  "floranDescription" : "Floran likesss ssshiny sssquirrel!",
+  "glitchDescription" : "Curious. This squirrel has gold in its fur.",
+  "humanDescription" : "An endangered golden squirrel. Hunted for its gold pelt.",
+  "hylotlDescription" : "This squirrel has a rare, golden pelt.",
+  "novakidDescription" : "I wonder where this varmint stores its gold nuggets?",
+
+  "inventoryIcon" : "goldsquirreltankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "goldsquirreltank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

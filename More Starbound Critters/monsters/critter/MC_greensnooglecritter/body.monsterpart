@@ -1,0 +1,9 @@
+{
+  "name" : "MC_greensnooglecritter",
+  "category" : "MC_greensnooglecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

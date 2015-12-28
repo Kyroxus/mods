@@ -1,0 +1,6 @@
+[
+	{"op":"add", "path" : "/genders/1/hair/-", "value":"ryukohair"},
+	{"op":"add", "path" : "/genders/1/hair/-", "value":"makohair"},
+	{"op":"add", "path" : "/genders/1/hair/-", "value":"satsukihair"}
+]
+

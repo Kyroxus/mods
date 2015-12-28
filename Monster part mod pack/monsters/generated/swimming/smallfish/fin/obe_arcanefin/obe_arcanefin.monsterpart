@@ -1,0 +1,9 @@
+{
+  "name" : "obe_arcanefin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "obe_arcanefin.png"
+  }
+}

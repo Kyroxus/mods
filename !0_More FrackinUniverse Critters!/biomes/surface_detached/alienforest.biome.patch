@@ -1,0 +1,28 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 21,
+        "pool" : [ 
+          [ 0.111, "uncommonslugbluecritter" ],          
+          [ 0.111, "uncommonslugcritter" ],
+          [ 0.111, "uncommonsluggreencritter" ],
+          [ 0.111, "uncommoneyefriendcritter" ],
+          [ 0.111, "uncommoneyepodcritter" ],
+          [ 0.111, "MC_bluesnooglecritter" ],
+          [ 0.111, "MC_greensnooglecritter" ],
+          [ 0.111, "largealienpanthercritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "uncommonpterosaurcritter" ],          
+          [ 0.111, "goldsnooglecritter" ],
+          [ 0.111, "TEMPquibblecritter" ],
+          [ 0.111, "blueblipcritter" ],
+          [ 1, "sackbagcritter" ],
+          [ 1, "bouncebagcritter" ],
+          [ 1, "floatbagcritter" ],
+          [ 1, "snooglecritter" ],
+          [ 1, "symbiotecritter" ]
+        ]
+      }
+}
+]

@@ -1,0 +1,9 @@
+{
+  "name" : "mountainblipcritter",
+  "category" : "mountainblipcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "heckhoundcritter",
+  "category" : "heckhoundcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "objectName" : "MS_volcanicminivolcano1",
+  "tags" : ["volcanic"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "pot",
+
+  "description" : "A volcano.",
+  "shortdescription" : "Volcano",
+  "race" : "apex",
+
+  "apexDescription" : "A volcano.",
+  "avianDescription" : "A volcano.",
+  "floranDescription" : "A volcano.",
+  "glitchDescription" : "Statement. A volcano.",
+  "humanDescription" : "A volcano.",
+  "hylotlDescription" : "A volcano.",
+
+  "inventoryIcon" : "capsulebigicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "MS_volcanicminivolcano1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "smashable" : true,
+  "smashSounds" : [ "/sfx/objects/rock_break1.ogg", "/sfx/objects/rock_break2.ogg", "/sfx/objects/rock_break3.ogg", "/sfx/objects/rock_break4.ogg", "/sfx/objects/rock_break5.ogg", "/sfx/objects/rock_crumble1.ogg", "/sfx/objects/rock_crumble2.ogg", "/sfx/objects/rock_crumble3.ogg", "/sfx/objects/rock_crumble4.ogg", "/sfx/objects/rock_crumble5.ogg" ],
+  "smashParticles" : [ { "count" : 8, "particle" : "rockshard" } ]
+}
+

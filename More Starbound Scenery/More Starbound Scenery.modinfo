@@ -1,0 +1,11 @@
+{
+  "name" : "More Starbound Scenery",
+  "version" : "",
+  "path" : ".",
+  "dependencies" : [ ],
+  "metadata": {
+    "author" : "",
+    "description" : "Adds more scenery.",
+    "support_url" : ""
+  }
+}

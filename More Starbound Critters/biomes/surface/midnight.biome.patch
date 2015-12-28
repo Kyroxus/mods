@@ -1,0 +1,21 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 31,
+        "pool" : [ 
+          [ 1, "MC_shadowscorpioncritter" ],
+          [ 1, "kefkacritter" ],
+          [ 1, "darkwormcritter" ],
+          [ 1, "darkballcritter" ],
+          [ 1, "darkoneeyecritter" ],
+          [ 1, "darkthreeeyescritter" ],
+          [ 1, "bigwormcritter" ],
+          [ 1, "skywurmcritter" ],
+          [ 1, "krawlcritter" ],
+          [ 1, "darknessscabcritter" ],
+          [ 1, "dartcritter" ]
+        ]
+      }
+}
+]

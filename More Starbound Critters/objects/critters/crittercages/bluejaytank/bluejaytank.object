@@ -1,0 +1,34 @@
+{
+  "objectName" : "bluejaytank",
+  "colonyTags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "BlueJay Critter",
+  "race" : "generic",
+  "apexDescription" : "Bluejays are clever birds known to use simple tools.",
+  "avianDescription" : "Ahh, listen to that beautiful shrieking bluejay.",
+  "floranDescription" : "Sssquawk, sssquawk!",
+  "glitchDescription" : "Annoyed. This bird is very noisy.",
+  "humanDescription" : "Bluejays are said to be related to crows and ravens.",
+  "hylotlDescription" : "A beautiful bird, but it has a terrible voice.",
+  "novakidDescription" : "Them bluejays make a horrible racket!",
+
+  "inventoryIcon" : "bluejaytankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bluejaytank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

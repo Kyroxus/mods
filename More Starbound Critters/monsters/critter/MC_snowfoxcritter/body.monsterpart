@@ -1,0 +1,9 @@
+{
+  "name" : "MC_snowfoxcritter",
+  "category" : "MC_snowfoxcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

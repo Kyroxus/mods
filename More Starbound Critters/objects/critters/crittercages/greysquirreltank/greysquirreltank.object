@@ -1,0 +1,35 @@
+{
+  "objectName" : "greysquirreltank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Grey Squirrel Critter",
+  "race" : "generic",
+  "apexDescription" : "Squirrels hibernate during the winter.",
+  "avianDescription" : "Squirrels are terrible pests that steal birdseed. I'm glad this one is tamed.",
+  "floranDescription" : "Floran want sssquirrel nutsss!",
+  "glitchDescription" : "Curious. This animal has a bushy tail.",
+  "humanDescription" : "Squirrels are always a pest at birdfeeders.",
+  "hylotlDescription" : "Squirrels are amusing creatures to observe.",
+  "novakidDescription" : "These varmints are always hiding their nuts everywhere.",
+
+  "inventoryIcon" : "greysquirreltankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "greysquirreltank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}
+

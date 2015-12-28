@@ -1,0 +1,20 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 11,
+        "pool" : [ 
+          [ 0.111, "brownblipcritter" ],          
+          [ 0.111, "duckcritter" ],
+          [ 0.111, "dragonflycritter" ],
+          [ 0.111, "warthogcritter" ],
+          [ 0.111, "tinybrowncrocodilecritter" ],
+          [ 0.111, "toadcritter" ],
+          [ 0.111, "goldtoadcritter" ],
+          [ 0.111, "batcritter" ],
+          [ 0.111, "MC_temmiecritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

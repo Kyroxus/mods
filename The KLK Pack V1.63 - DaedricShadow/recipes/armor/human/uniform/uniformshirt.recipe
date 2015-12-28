@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "lifefiber", "count" : 3 }
+  ],
+  "output" : { "item" : "uniformshirt", "count" : 1 },
+  "groups" : [ "spinningwheel", "armors" ]
+}

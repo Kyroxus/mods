@@ -1,0 +1,9 @@
+{
+  "name" : "brownblipcritter",
+  "category" : "brownblipcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

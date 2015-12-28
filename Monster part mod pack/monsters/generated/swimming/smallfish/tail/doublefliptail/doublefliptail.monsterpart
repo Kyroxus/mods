@@ -1,0 +1,9 @@
+{
+  "name" : "doublefliptail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "doublefliptail.png"
+  }
+}

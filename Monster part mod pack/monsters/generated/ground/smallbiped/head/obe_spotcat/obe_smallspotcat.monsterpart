@@ -1,0 +1,13 @@
+{
+  "name" : "obe_smallspotcat",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_smallspotcat.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

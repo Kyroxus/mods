@@ -1,0 +1,34 @@
+{
+  "objectName" : "redbirdtank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Cardinal Critter",
+  "race" : "generic",
+  "apexDescription" : "This is definitely a male cardinal.",
+  "avianDescription" : "Kluex is said to have blessed cardinals with their red coloration.",
+  "floranDescription" : "I bet cardnialsss taste red.",
+  "glitchDescription" : "Analyzing. Bio-database indicates this is a male cardinal.",
+  "humanDescription" : "Were cardinals named after the color, or was the color named after them?",
+  "hylotlDescription" : "A beautiful crimson cardinal.",
+  "novakidDescription" : "A pesky, red feathered varmint.",
+
+  "inventoryIcon" : "redbirdtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "redbirdtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

@@ -1,0 +1,17 @@
+[
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:denseMedium",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.10, "MS_flower1" ], [0.10, "MS_flower2" ], [0.10, "MS_flower3" ], [0.10, "MS_flower4" ], [0.10, "MS_flower5" ], [0.10, "MS_flower6" ], [0.10, "MS_flower7" ], [0.50, "MS_forestfern1" ], [0.50, "MS_forestfern2" ], [0.50, "MS_forestfern3" ], [0.50, "MS_forestfern4" ], [0.50, "MS_forestfern5" ], [0.50, "MS_forestfern6" ], [0.50, "MS_forestsapling1" ], [0.50, "MS_forestboulder1" ], [0.50, "MS_forestboulder2" ], [0.50, "MS_forestlog1" ], [0.50, "MS_forestlog2" ], [0.50, "MS_foreststump1" ] ],
+            "parameters" : { }
+          }
+        ]
+      }
+	}
+]

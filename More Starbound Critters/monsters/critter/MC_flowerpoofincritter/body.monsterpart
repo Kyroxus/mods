@@ -1,0 +1,9 @@
+{
+  "name" : "MC_flowerpoofincritter",
+  "category" : "MC_flowerpoofincritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

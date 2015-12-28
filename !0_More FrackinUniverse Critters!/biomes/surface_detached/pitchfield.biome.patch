@@ -1,0 +1,21 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 11,
+        "pool" : [ 
+          [ 0.111, "MC_shadowscorpioncritter" ],
+          [ 0.111, "MC_centipedecritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "batcritter" ],
+          [ 0.111, "shadowhoundcritter" ],
+          [ 0.111, "tarslugcritter" ],
+          [ 0.111, "goldgloopcritter" ],
+          [ 0.111, "oilgloopcritter" ],
+          [ 0.111, "mousecritter" ],
+          [ 0.111, "ravencritter" ],
+          [ 0.111, "vulturecritter" ]
+        ]
+      }
+}
+]

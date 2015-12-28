@@ -1,0 +1,21 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 32,
+        "pool" : [ 
+          [ 0.111, "MC_temmiecritter" ],
+          [ 0.111, "MC_mooglecritter" ],
+          [ 0.111, "MC_bluewormcritter" ],
+          [ 0.111, "MC_yellowwormcritter" ],
+          [ 0.111, "bluesnuggetcritter" ],
+          [ 0.111, "yellowsnuggetcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.25, "bioluminfireflyspawner" ],
+          [ 0.25, "glowingballcritter" ],
+          [ 0.25, "glowingball2critter" ],
+          [ 0.25, "glowingfishcritter" ]
+        ]
+      }
+}
+]

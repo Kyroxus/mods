@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallquadstubbytail",
+  "category" : "smallquadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_smallquadstubbytail.png"
+  }
+}

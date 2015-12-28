@@ -1,0 +1,9 @@
+{
+  "name" : "splithead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "splithead.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallzittail",
+  "category" : "smallquadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_smallzittail.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "objectName" : "pterosaurtank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "Pterosaurs are hairy, flying reptiles unrelated to both birds and bats.",
+  "shortdescription" : "Pterosaur Critter",
+  "race" : "generic",
+  "apexDescription" : "Pterosaurs are often incorrectly referred to as dinosaurs.",
+  "avianDescription" : "Pterosaurs are not birds, they are reptiles. They are covered with curious hairs called pycnofibers.",
+  "floranDescription" : "Ssstrange bat-bird!",
+  "glitchDescription" : "Statement. Pterosaurs are the earliest known vertebrates to have evolved powered flight.",
+  "humanDescription" : "Looks like this creature escaped from Jurassic Park.",
+  "hylotlDescription" : "The largest pterosaur is Quetzalcoatlus.",
+  "novakidDescription" : "My grandpappy used to ride pterodactyls. They can be ornery, these critters.",
+
+  "inventoryIcon" : "pterosaurtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "pterosaurtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "halfhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "halfhead.png"
+  }
+}

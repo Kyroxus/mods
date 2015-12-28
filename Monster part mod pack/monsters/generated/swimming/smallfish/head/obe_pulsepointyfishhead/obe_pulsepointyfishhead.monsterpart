@@ -1,0 +1,9 @@
+{
+  "name" : "obe_pulsepointyfishhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_pulsepointyfishhead.png"
+  }
+}

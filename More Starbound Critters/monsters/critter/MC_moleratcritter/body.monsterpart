@@ -1,0 +1,9 @@
+{
+  "name" : "MC_moleratcritter",
+  "category" : "MC_moleratcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

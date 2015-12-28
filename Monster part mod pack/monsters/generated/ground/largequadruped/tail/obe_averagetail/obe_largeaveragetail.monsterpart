@@ -1,0 +1,9 @@
+	{
+  "name" : "obe_largeaveragetail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_largeaveragetail.png"
+  }
+}

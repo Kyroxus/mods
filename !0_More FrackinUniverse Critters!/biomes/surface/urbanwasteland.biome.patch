@@ -1,0 +1,15 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 5,
+        "pool" : [ 
+          [ 0.20, "commonkefkacritter" ],
+          [ 0.20, "rustscabcritter" ],
+          [ 0.20, "exposedMC_roachcritter" ],
+          [ 0.20, "goldgloopcritter" ],
+          [ 0.20, "oilgloopcritter" ]
+        ]
+      }
+}
+]

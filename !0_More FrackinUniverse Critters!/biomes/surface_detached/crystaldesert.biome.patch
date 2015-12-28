@@ -1,0 +1,15 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 5,
+        "pool" : [ 
+          [ 0.111, "yellowsnuggetcritter" ],
+          [ 0.111, "orangesnuggetcritter" ],
+          [ 0.111, "redsnuggetcritter" ],
+          [ 0.111, "crystalscabcritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

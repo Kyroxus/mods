@@ -1,0 +1,34 @@
+{
+  "objectName" : "bloodbunnytank",
+  "colonyTags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Blood Bunny Critter",
+  "race" : "generic",
+  "apexDescription" : "This rabbit has hairless, veiny skin.",
+  "avianDescription" : "What an odd, red rabbit-like creature.",
+  "floranDescription" : "Rabbit has tasssty red skin!",
+  "glitchDescription" : "Curious. This rabbit has thick red veins instead of fur.",
+  "humanDescription" : "This fleshy red rabbit isn't as cute as normal rabbits.",
+  "hylotlDescription" : "This raw, meaty rabbit is an abomination.",
+  "novakidDescription" : "What a creepy looking varmint. Looks like raw meat.",
+
+  "inventoryIcon" : "bloodbunnytankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bloodbunnytank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

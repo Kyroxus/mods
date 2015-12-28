@@ -1,0 +1,13 @@
+{
+  "name" : "obe_largeplatefinhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "obe_largeplatefinhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

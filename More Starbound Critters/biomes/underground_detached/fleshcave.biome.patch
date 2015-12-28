@@ -1,0 +1,15 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 11,
+        "pool" : [ 
+          [ 0.111, "bloodbunnycritter" ],
+          [ 0.111, "bloodslugcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 1, "bloodtoadcritter" ],
+          [ 1, "maggotcritter" ]
+        ]
+      }
+}
+]

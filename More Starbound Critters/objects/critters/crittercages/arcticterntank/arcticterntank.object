@@ -1,0 +1,34 @@
+{
+  "objectName" : "arcticterntank",
+  "colonyTags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Arctic Tern",
+  "race" : "generic",
+  "apexDescription" : "A gregarious tern.",
+  "avianDescription" : "The tern is blessed with long wings, and can easily glide.",
+  "floranDescription" : "MINE! MINE!",
+  "glitchDescription" : "Annoyed. Terns make a mess where ever they go.",
+  "humanDescription" : "Terns are always trying to steal my food.",
+  "hylotlDescription" : "These creatures soar gracefully over oceanic planets.",
+  "novakidDescription" : "Hey! Keep away from my lunch, ya feathery varmint!",
+
+  "inventoryIcon" : "arcticterntankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "arcticterntank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "snowowlcritter",
+  "category" : "snowowlcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

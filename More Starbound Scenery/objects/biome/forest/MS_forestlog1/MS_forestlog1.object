@@ -1,0 +1,36 @@
+{
+  "objectName" : "MS_forestlog1",
+  "tags" : ["forest"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "pot",
+
+  "description" : "A log.",
+  "shortdescription" : "Log",
+  "race" : "apex",
+
+  "apexDescription" : "A log.",
+  "avianDescription" : "A log.",
+  "floranDescription" : "A log.",
+  "glitchDescription" : "Statement. A log.",
+  "humanDescription" : "A log.",
+  "hylotlDescription" : "A log.",
+
+  "inventoryIcon" : "capsulebigicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "MS_forestlog1.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "smashable" : true,
+  "smashSounds" : [ "/sfx/objects/wood_break1.ogg", "/sfx/objects/wood_break2.ogg", "/sfx/objects/wood_break3.ogg", "/sfx/objects/wood_break4.ogg", "/sfx/objects/wood_break5.ogg", "/sfx/objects/wood_break6.ogg" ],
+  "smashParticles" : [ { "count" : 8, "particle" : "woodshard" } ]
+}

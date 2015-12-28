@@ -1,0 +1,9 @@
+{
+  "name" : "MC_mushflyercritter",
+  "category" : "MC_mushflyercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

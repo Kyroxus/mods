@@ -1,0 +1,10 @@
+{
+  "name" : "obe_smallskinwing",
+  "category" : "smallflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "obe_smallskinbwing.png",
+    "frontWings" : "obe_smallskinfwing.png"
+  }
+}

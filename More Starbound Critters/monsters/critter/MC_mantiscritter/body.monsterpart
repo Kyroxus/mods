@@ -1,0 +1,9 @@
+{
+  "name" : "MC_mantiscritter",
+  "category" : "MC_mantiscritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

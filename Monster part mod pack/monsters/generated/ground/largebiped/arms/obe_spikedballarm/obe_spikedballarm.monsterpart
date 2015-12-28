@@ -1,0 +1,10 @@
+{
+  "name" : "obe_largespikedballarm",
+  "category" : "largebiped",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "obe_largespikedballfarm.png",
+    "backArm" : "obe_largespikedballbarm.png"
+  }
+}

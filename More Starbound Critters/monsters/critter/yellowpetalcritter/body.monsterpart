@@ -1,0 +1,9 @@
+{
+  "name" : "yellowpetalcritter",
+  "category" : "yellowpetalcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

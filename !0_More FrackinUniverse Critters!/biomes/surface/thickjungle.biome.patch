@@ -1,0 +1,50 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 41,
+        "pool" : [ 
+          [ 0.111, "MC_chocobocritter" ],
+          [ 0.111, "MC_roachcritter" ],            
+          [ 0.111, "uncommonpterosaurcritter" ],
+          [ 0.111, "uncommonTEMPquibblecritter" ],
+          [ 0.111, "uncommonbowbirdcritter" ],
+          [ 0.111, "uncommonpetalcritter" ],
+          [ 0.111, "uncommonleafscabcritter" ],
+          [ 0.111, "uncommonsquirrelcritter" ],
+          [ 0.111, "MC_monkeycritter" ],
+          [ 0.111, "MC_parrotcritter" ],
+          [ 0.111, "uncommontortoisecritter" ],
+          [ 0.111, "ocelotcritter" ],
+          [ 0.111, "kefkacritter" ],
+          [ 0.111, "uncommonhummingbirdcritter" ],          
+          [ 0.111, "uncommondragonflycritter" ],
+          [ 0.111, "uncommonduckcritter" ],
+          [ 0.111, "TEMPtoucritter" ],
+          [ 0.111, "uncommonsporelingcritter" ],
+          [ 0.111, "panthercritter" ],
+          [ 0.111, "uncommongroopcritter" ],
+          [ 0.111, "uncommonsnakecritter" ],
+          [ 0.111, "toadcritter" ],
+          [ 0.111, "uncommonsnailcritter" ],
+          [ 0.111, "greenquibblecritter" ],
+          [ 0.111, "greenchickcritter" ],
+          [ 0.111, "enclosedMC_centipedecritter" ],
+          [ 0.111, "batcritter" ],
+          [ 0.111, "wolfhoundcritter" ],
+          [ 0.111, "MC_spidercritter" ],
+          [ 0.111, "plantsnakecritter" ],
+          [ 0.111, "largepanthercritter" ],
+          [ 0.111, "goldtoadcritter" ],
+          [ 0.111, "liquidfishcritter" ],
+          [ 0.111, "liquidfrogpolecritter" ],
+          [ 0.111, "enclosedMC_spidercritter" ],
+          [ 0.111, "uncommonibiscritter" ],
+          [ 1, "frogcritter" ],
+          [ 1, "birdcritter" ],
+          [ 1, "fireflyspawner" ],
+          [ 1, "chevcritter" ]
+        ]
+      }
+}
+]

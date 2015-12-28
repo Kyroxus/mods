@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallbladesstripes",
+  "category" : "smallquadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "obe_smallbladesstripes.png"
+  }
+}

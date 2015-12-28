@@ -1,0 +1,9 @@
+{
+  "name" : "MC_roachcritter",
+  "category" : "MC_roachcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

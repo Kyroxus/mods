@@ -1,0 +1,9 @@
+{
+  "name" : "MC_dodocritter",
+  "category" : "MC_dodocritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

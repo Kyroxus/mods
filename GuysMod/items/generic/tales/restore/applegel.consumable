@@ -1,0 +1,16 @@
+{
+  "itemName" : "applegel",
+  "rarity" : "Common",
+  "inventoryIcon" : "applegel.png",
+  "description" : "Apple Gel, restores 30 health.",
+  "shortdescription" : "Apple Gel",
+  "handPosition" : [0, 11],
+  "effects" : [ [
+      {
+        "effect" : "regeneration4",
+        "duration" : 15
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "drinkinghealing" ]
+}

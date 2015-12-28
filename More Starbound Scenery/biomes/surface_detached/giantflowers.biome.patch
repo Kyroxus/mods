@@ -1,0 +1,17 @@
+[
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:denseLarge",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.45, "MS_flower1" ], [0.45, "MS_flower2" ], [0.45, "MS_flower3" ], [0.45, "MS_flower4" ], [0.45, "MS_flower5" ], [0.45, "MS_flower6" ], [0.45, "MS_flower7" ], [0.01, "MS_flowey" ] ],
+            "parameters" : { }
+          }
+        ]
+      }
+	}
+]

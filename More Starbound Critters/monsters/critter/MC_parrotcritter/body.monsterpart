@@ -1,0 +1,9 @@
+{
+  "name" : "MC_parrotcritter",
+  "category" : "MC_parrotcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

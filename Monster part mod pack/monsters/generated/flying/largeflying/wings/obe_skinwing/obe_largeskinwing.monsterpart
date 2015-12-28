@@ -1,0 +1,10 @@
+{
+  "name" : "obe_largeskinwing",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "obe_largeskinbwing.png",
+    "frontWings" : "obe_largeskinfwing.png"
+  }
+}

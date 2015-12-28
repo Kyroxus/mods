@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largebipedstub",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_largebipedstub.png"
+  }
+}

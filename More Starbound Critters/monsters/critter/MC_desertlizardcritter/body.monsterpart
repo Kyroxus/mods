@@ -1,0 +1,9 @@
+{
+  "name" : "MC_desertlizardcritter",
+  "category" : "MC_desertlizardcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

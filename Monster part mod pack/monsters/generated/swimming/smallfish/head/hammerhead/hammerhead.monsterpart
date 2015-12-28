@@ -1,0 +1,9 @@
+{
+  "name" : "hammerhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "hammerhead.png"
+  }
+}

@@ -1,0 +1,17 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 8,
+        "pool" : [         
+          [ 0.111, "seahorsecritter" ],
+          [ 0.111, "seaturtlecritter" ],
+          [ 1, "squidcritter" ],
+          [ 1, "jellycritter" ],
+          [ 1, "fishlemoncritter" ],
+          [ 1, "fishberrycritter" ],
+          [ 1, "fishchilicritter" ]
+        ]
+      }
+}
+]

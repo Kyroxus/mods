@@ -1,0 +1,9 @@
+{
+  "name" : "goldsquirrelcritter",
+  "category" : "goldsquirrelcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "guilefin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "guilefin.png"
+  }
+}

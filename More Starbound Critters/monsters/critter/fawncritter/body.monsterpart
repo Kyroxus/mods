@@ -1,0 +1,9 @@
+{
+  "name" : "fawncritter",
+  "category" : "fawncritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,13 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 4,
+        "pool" : [ 
+          [ 0.111, "MC_eaglecritter" ],
+          [ 0.111, "bluejaycritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

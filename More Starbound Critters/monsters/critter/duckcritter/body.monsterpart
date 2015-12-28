@@ -1,0 +1,9 @@
+{
+  "name" : "duckcritter",
+  "category" : "duckcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "sandquibblecritter",
+  "category" : "sandquibblecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

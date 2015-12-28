@@ -1,0 +1,34 @@
+{
+  "objectName" : "temmietank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "Says, HOI, a lot...",
+  "shortdescription" : "Temmie",
+  "race" : "generic",
+  "apexDescription" : "What? What is this annoying creature?",
+  "avianDescription" : "It just says, HOI, over and over.",
+  "floranDescription" : "HOI!",
+  "glitchDescription" : "Annoyed. This creature has terrible grammar.",
+  "humanDescription" : "This creature will buy anything.",
+  "hylotlDescription" : "Temmies are amongst the most annoying creatures in the universe.",
+  "novakidDescription" : "This varmint keeps trying to pet me.",
+
+  "inventoryIcon" : "temmietankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "temmietank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

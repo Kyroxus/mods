@@ -1,0 +1,9 @@
+{
+  "name" : "toxicwurmcritter",
+  "category" : "toxicwurmcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

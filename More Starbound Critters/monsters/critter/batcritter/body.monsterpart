@@ -1,0 +1,9 @@
+{
+  "name" : "batcritter",
+  "category" : "batcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

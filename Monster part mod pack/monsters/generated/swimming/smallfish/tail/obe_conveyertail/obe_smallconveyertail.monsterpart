@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallconveyertail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_smallconveyertail.png"
+  }
+}

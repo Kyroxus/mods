@@ -1,0 +1,9 @@
+	{
+  "name" : "obe_smallyawningfacetail",
+  "category" : "smallquadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_smallyawningfacetail.png"
+  }
+}

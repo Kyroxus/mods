@@ -1,0 +1,9 @@
+{
+  "name" : "greenweaselcritter",
+  "category" : "greenweaselcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

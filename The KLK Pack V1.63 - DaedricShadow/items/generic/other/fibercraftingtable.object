@@ -1,0 +1,34 @@
+{
+  "objectName" : "fibercraftingtable",
+  "rarity" : "rare",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/fibercraftingtable.config",
+    "filter" : [ "fibercraftingtable" ]
+  },
+  "printable" : false,
+  "description" : "If you like long hours stitching two things together, this is for you.",
+  "shortdescription" : "^orange;Fiber Crafting Table^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 800,
+
+  "inventoryIcon" : "fibercraftingtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "fibercraftingtable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "learnBlueprintsOnPickup" : [
+    "fibercraftingtable"
+  ]
+}
+

@@ -1,0 +1,9 @@
+{
+  "name" : "MC_bluewormcritter",
+  "category" : "MC_bluewormcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

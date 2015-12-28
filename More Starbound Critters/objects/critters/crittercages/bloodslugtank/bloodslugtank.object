@@ -1,0 +1,34 @@
+{
+  "objectName" : "bloodslugtank",
+  "colonyTags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A critter. How cute!",
+  "shortdescription" : "Blood Slug Critter",
+  "race" : "generic",
+  "apexDescription" : "This critter is tame.",
+  "avianDescription" : "A tame critter.",
+  "floranDescription" : "Mmm, crittersss!",
+  "glitchDescription" : "Curious. A critter.",
+  "humanDescription" : "An animal.",
+  "hylotlDescription" : "A majestic animal.",
+  "novakidDescription" : "A pesky varmint.",
+
+  "inventoryIcon" : "bloodslugtankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bloodslugtank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

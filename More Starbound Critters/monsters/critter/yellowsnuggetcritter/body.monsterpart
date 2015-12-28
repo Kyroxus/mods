@@ -1,0 +1,9 @@
+{
+  "name" : "yellowsnuggetcritter",
+  "category" : "yellowsnuggetcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

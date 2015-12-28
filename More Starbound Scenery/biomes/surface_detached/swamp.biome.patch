@@ -1,0 +1,17 @@
+[
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:moderateClumps",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [0.35, "MS_forestfern1" ], [0.35, "MS_forestfern3" ], [0.35, "MS_forestfern5" ], [0.35, "MS_forestfern6" ], [0.35, "MS_forestsapling1" ], [0.35, "MS_forestboulder1" ], [0.35, "MS_forestboulder2" ], [0.35, "MS_forestlog1" ], [0.35, "MS_forestlog2" ], [0.35, "MS_foreststump1" ] ],
+            "parameters" : { }
+          }
+        ]
+      }
+	}
+]

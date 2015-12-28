@@ -1,0 +1,9 @@
+{
+  "name" : "panthercritter",
+  "category" : "panthercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

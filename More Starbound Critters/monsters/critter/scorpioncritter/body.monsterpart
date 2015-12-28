@@ -1,0 +1,9 @@
+{
+  "name" : "scorpioncritter",
+  "category" : "scorpioncritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

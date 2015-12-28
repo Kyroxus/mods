@@ -1,0 +1,9 @@
+{
+  "name" : "snowleopardcritter",
+  "category" : "snowleopardcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

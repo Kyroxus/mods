@@ -1,0 +1,9 @@
+{
+  "name" : "wolfhoundcritter",
+  "category" : "wolfhoundcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

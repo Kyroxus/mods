@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largequadstubbytail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_largequadstubbytail.png"
+  }
+}

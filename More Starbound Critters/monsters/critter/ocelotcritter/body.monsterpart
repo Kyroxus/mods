@@ -1,0 +1,9 @@
+{
+  "name" : "ocelotcritter",
+  "category" : "ocelotcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

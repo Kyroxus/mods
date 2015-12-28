@@ -1,0 +1,16 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 6,
+        "pool" : [ 
+          [ 0.111, "MC_bloodbagcritter" ],          
+          [ 0.111, "MC_eyewurmcritter" ],
+          [ 0.111, "MC_flyeyecritter" ],
+          [ 0.111, "bloodbunnycritter" ],
+          [ 0.111, "bloodslugcritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

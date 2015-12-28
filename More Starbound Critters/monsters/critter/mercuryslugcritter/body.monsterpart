@@ -1,0 +1,9 @@
+{
+  "name" : "mercuryslugcritter",
+  "category" : "mercuryslugcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

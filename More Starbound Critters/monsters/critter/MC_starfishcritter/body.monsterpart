@@ -1,0 +1,9 @@
+{
+  "name" : "MC_starfishcritter",
+  "category" : "MC_starfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

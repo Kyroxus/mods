@@ -1,0 +1,9 @@
+{
+  "name" : "brownsealcritter",
+  "category" : "brownsealcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

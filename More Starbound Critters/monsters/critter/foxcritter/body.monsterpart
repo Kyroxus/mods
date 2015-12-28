@@ -1,0 +1,9 @@
+{
+  "name" : "foxcritter",
+  "category" : "foxcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

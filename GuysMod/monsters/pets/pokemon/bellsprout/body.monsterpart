@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "petbellsprout",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "petbellsprout.png"
+  }
+}

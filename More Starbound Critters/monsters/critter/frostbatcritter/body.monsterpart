@@ -1,0 +1,9 @@
+{
+  "name" : "frostbatcritter",
+  "category" : "frostbatcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

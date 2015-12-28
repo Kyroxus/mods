@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "lifefiber", "count" : 5 },
+	{ "item" : "steelbar", "count" : 2 },
+	{ "item" : "fabric", "count" : 5 }
+  ],
+  "output" : { "item" : "gokustarcloth", "count" : 1 },
+  "groups" : [ "fibercraftingtable", "material" ]
+}

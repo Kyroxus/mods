@@ -1,0 +1,9 @@
+{
+  "name" : "MC_mooglecritter",
+  "category" : "MC_mooglecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

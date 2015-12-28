@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "gokustarcloth", "count" : 7 }
+  ],
+  "output" : { "item" : "senketsuinactivechest", "count" : 1 },
+  "groups" : [ "fibercraftingtable", "armors" ]
+}

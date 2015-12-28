@@ -1,0 +1,18 @@
+[
+{"op":"add","path":"/spawnProfile/groups/-",
+"value":{ 
+      
+        "select" : 8,
+        "pool" : [
+          [ 0.111, "daytimeshadowhoundcritter" ],
+          [ 0.111, "daytimebatcritter" ],
+          [ 0.111, "MC_eyewurmcritter" ],
+          [ 0.111, "daytimeMC_spidercritter" ],
+          [ 0.111, "MC_flyeyecritter" ],
+          [ 0.111, "MC_shadowscorpioncritter" ], 
+          [ 0.111, "MC_centipedecritter" ],
+          [ 0.111, "kefkacritter" ]
+        ]
+      }
+}
+]

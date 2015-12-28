@@ -1,0 +1,9 @@
+{
+  "name" : "firebatcritter",
+  "category" : "firebatcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

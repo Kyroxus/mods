@@ -1,0 +1,16 @@
+{
+  "itemName" : "orangegel",
+  "rarity" : "Common",
+  "inventoryIcon" : "orangegel.png",
+  "description" : "Orange Gel, restores 30 health.",
+  "shortdescription" : "Orange Gel",
+  "handPosition" : [0, 11],
+  "effects" : [ [
+      {
+        "effect" : "regeneration1",
+        "duration" : 30
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "drinkinghealing" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "toadcritter",
+  "category" : "toadcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largepropellerbirdtail",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "obe_largepropellerbirdtail.png"
+  }
+}

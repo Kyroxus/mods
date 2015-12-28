@@ -1,0 +1,9 @@
+{
+  "name" : "crystalsquirrelcritter",
+  "category" : "crystalsquirrelcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

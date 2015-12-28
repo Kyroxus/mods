@@ -1,0 +1,9 @@
+{
+  "name" : "plantsnakecritter",
+  "category" : "plantsnakecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

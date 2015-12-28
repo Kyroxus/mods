@@ -1,0 +1,35 @@
+{
+  "objectName" : "kefkatank",
+  "colonyTags" : ["critters","crittercages","finalfantasy","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "He doesn't look happy to be in there...",
+  "shortdescription" : "Kefka in a Cage",
+  "race" : "generic",
+  "apexDescription" : "What a strange, angry little clown...",
+  "avianDescription" : "This little clown keeps shrieking to be let out.",
+  "floranDescription" : "Ssscary little clown!",
+  "glitchDescription" : "Worryed. This little caged clown is threatening to destroy me.",
+  "humanDescription" : "He says his name is Kefka, and that he'll destroy me if I don't let him out. I think he should stay locked up.",
+  "hylotlDescription" : "This destructive jester is safely locked up.",
+  "novakidDescription" : "That there's the weirdest little clown I ever did see.",
+
+  "inventoryIcon" : "kefkatankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "kefkatank.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+
+}

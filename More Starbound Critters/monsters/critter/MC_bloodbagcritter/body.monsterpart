@@ -1,0 +1,9 @@
+{
+  "name" : "MC_bloodbagcritter",
+  "category" : "MC_bloodbagcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

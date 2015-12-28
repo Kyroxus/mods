@@ -1,0 +1,9 @@
+{
+  "name" : "elephantcritter",
+  "category" : "elephantcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "MC_crystalicescabcritter",
+  "category" : "MC_crystalicescabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

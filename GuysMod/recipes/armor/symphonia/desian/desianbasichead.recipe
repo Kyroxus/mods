@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar",  "count" : 5},
+	{ "item" : "fabric",   "count" : 10}
+  ],
+  "output" : { "item" : "desianbasichead", "count" : 1 },
+  "groups" : [ "spinningwheel", "armors", "all" ]
+}

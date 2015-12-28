@@ -1,0 +1,11 @@
+{
+  "name" : "More Starbound Critters",
+  "version" : "",
+  "path" : ".",
+  "dependencies" : [ ],
+  "metadata": {
+    "author" : "",
+    "description" : "Adds more critters.",
+    "support_url" : ""
+  }
+}

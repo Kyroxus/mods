@@ -1,0 +1,9 @@
+{
+  "name" : "obe_largeringchest",
+  "category" : "largequadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "obe_largeringchest.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "bloodslugcritter",
+  "category" : "bloodslugcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

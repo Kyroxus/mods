@@ -1,0 +1,9 @@
+{
+  "name" : "bluebirdcritter",
+  "category" : "bluebirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "objectName" : "ibistank",
+  "tags" : ["critters","crittercages","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "printable" : false,
+
+  "description" : "A scarlet ibis, venerated in ancient Egypt.",
+  "shortdescription" : "Ibis Critter",
+  "race" : "generic",
+  "apexDescription" : "I think this is a scarlet ibis.",
+  "avianDescription" : "Ibises are considered sacred because they are the messengers of Kluex.",
+  "floranDescription" : "Floran thinksss red bird is funny!",
+  "glitchDescription" : "Curious. What an unusual bird.",
+  "humanDescription" : "Ibises live amongst the reeds.",
+  "hylotlDescription" : "The feathers of a scarlet ibis are highly prized.",
+  "novakidDescription" : "Lookie here at this funny bird!",
+
+  "inventoryIcon" : "ibistankicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ibistank.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+
+}

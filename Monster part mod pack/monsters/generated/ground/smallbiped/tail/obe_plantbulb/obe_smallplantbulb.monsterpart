@@ -1,0 +1,9 @@
+{
+  "name" : "obe_smallplantbulb",
+  "category" : "smallbiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "obe_smallplantbulb.png"
+  }
+}
