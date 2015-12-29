@@ -16,11 +16,8 @@ function Read_Start(args)
 	-- the resulting blueprint will also not require any items to print out	
 	self.miab.useInventory = args.useInventory
 	
-	-- if true plots an object file of the blueprint to the log
-	self.miab.Plot_Object_JSON = args.Plot_Object_JSON;
-	
-	-- if true plots an recipe file of the blueprint to the log
-	self.miab.Plot_Recipe_JSON = args.Plot_Recipe_JSON;
+	-- if true plots files of the blueprint to the log
+	self.miab.Plot_JSON = args.Plot_JSON;
 		
 	-- hoover this area if not everything could be collected at once
 	self.miab.Main_Hoover_BB = {};
@@ -450,11 +447,8 @@ function spawnPrinterItem()
 end
 
 function Produce_JSON_Output()
-	if (self.miab.Plot_Object_JSON) then
-		blueprint.Dump_Obj_JSON();
-	end
-	if (self.miab.Plot_Recipe_JSON) then
-		blueprint.Dump_Rcp_JSON();
+	if (self.miab.Plot_JSON) then
+		blueprint.Dump_JSON();
 	end
 end
 

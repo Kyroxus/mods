@@ -573,7 +573,7 @@ function Process_Blueprint(args)
 									-- check if we have that item
 									if (blueprint.haveItemsInTable({matName,1},blueprint.accquiredItemsTable)) then
 										-- try to place
-										if(world.placeObject(matName, wpos, ObjectParameter_tbl.Facing))then
+										if(world.placeObject(matName, wpos, ObjectParameter_tbl.Facing, {}))then
 											local _objects = world.objectQuery(wpos, 0)
 											local _i, _objID
 											for _i, _objID in pairs(_objects) do
@@ -603,7 +603,7 @@ function Process_Blueprint(args)
 									-- try to place
 									-- TODO: implement set other object properties,
 									-- like content of chests, here.
-									if (world.placeObject(matName, wpos, ObjectParameter_tbl.Facing)) then
+									if (world.placeObject(matName, wpos, ObjectParameter_tbl.Facing, {})) then
 										local _objects = world.objectQuery(wpos, 0)
 										local _i, _objID
 										for _i, _objID in pairs(_objects) do

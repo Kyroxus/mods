@@ -441,7 +441,81 @@ function blueprint.fromEntityConfig()
 	end
 end
 		
-function blueprint.Dump_Rcp_JSON()
+function blueprint.Dump_JSON()
+	-- see: http://jsonlint.com/ for json validation tool
+	local serialised = "\n"
+	serialised = serialised .. "-------------------------------------------\nRecipe serialisation begins\nReplace \"!itemname\" and save in \"pilch_sciencestation/custom\" folder as \"itemname.recipe\"\n-------------------------------------------\n"
+	serialised = serialised .. "{\n\t\"input\" : [\n\t\t{ \"item\" : \"titaniumbar\", \"count\" : 10 },\n\t\t{ \"item\" : \"money\", \"count\" : 400 }\n\t],\n"
+	serialised = serialised .. "\t\"output\" : {\n\t\t\"item\" : \"!itemname\", \"count\" : 1\n\t},\n"
+	serialised = serialised .. "\t\"groups\" : [ \"pilch_sciencestation\", \"furniture\", \"objects\", \"all\" ]\n}\n"
+	serialised = serialised .. "-------------------------------------------\nRecipe serialisation ends\n-------------------------------------------\n"
+	serialised = serialised .. "Config patch serialisation begins\nReplace \"!itemname\" and insert after the first line in \"pilch_sciencestation/player.config.patch\"\n-------------------------------------------\n"
+	serialised = serialised .. "\t{\n\t\t\"op\" : \"add\",\n\t\t\"path\" : \"/defaultBlueprints/tier1/-\",\n\t\t\"value\" : { \"item\" : \"!itemname\" }\n\t},\n"
+	serialised = serialised .. "-------------------------------------------\nConfig patch serialisation ends\n"
+	serialised = serialised .. "-------------------------------------------\nObject serialisation begins\nReplace \"!itemname\", \"!longdescription\" and \"!shortdescription\" and save in \"pilch_sciencestation/custom\" folder as \"itemname.object\"\n-------------------------------------------\n"
+	serialised = serialised .. "{\n\t\"objectName\" : \"!itemname\",\n\t\"rarity\" : \"Common\",\n\t\"description\" : \"!longdescription\",\n\t\"shortdescription\" : \"!shortdescription\",\n"
+	serialised = serialised .. "\t\"race\" : \"generic\",\n\t\"category\" : \"tool\",\n\t\"price\" : 1,\n\t\"printable\" : false,\n\n"
+	serialised = serialised .. "\t\"inventoryIcon\" : \"/objects/basestorage/miab_basestore_printer/miab_basestore_printer_icon.png\",\n"
+	serialised = serialised .. "\t\"orientations\" : [\n\t\t{\n\t\t\t\"dualImage\" : \"/objects/basestorage/miab_basestore_printer/miab_basestore_printer.png:<color>.<frame>\",\n"
+	serialised = serialised .. "\t\t\t\"imagePosition\" : [-8, 0],\n\t\t\t\"frames\" : 5,\n\t\t\t\"animationCycle\" : 1,\n\t\t\t\"spaceScan\" : 0.1\n\t\t}\n\t],\n\n"
+	serialised = serialised .. "\t\"animation\" : \"/objects/basestorage/miab_basestore_printer/miab_basestore_printer.animation\",\n"
+	serialised = serialised .. "\t\t\"animationParts\" : {\n\t\t\"normal_operation_image\" : \"/objects/basestorage/miab_basestore_printer/miab_basestore_printer.png\"\n\t},\n"
+	serialised = serialised .. "\t\"animationPosition\" : [-8, 0],\n\n"
+	serialised = serialised .. "\t\"scripts\" : [\n\t\t\"/objects/basestorage/miab_basestore_printer/miab_basestore_print_activator.lua\",\n"
+	serialised = serialised .. "\t\t\"/scripts/basestorage/miab_basestore_printer.lua\",\n\t\t\"/scripts/basestorage/miab_basestore_blueprint.lua\",\n"
+	serialised = serialised .. "\t\t\"/scripts/basestorage/miab_basestore_matsTable.lua\",\n\t\t\"/scripts/basestorage/miab_basestore_util.lua\"\n\t],\n\t\"scriptDelta\" : 5,\n\n\t\"miab_printer_offset\" : [1, 0],\n\n"
+
+	serialised = serialised .. "\t\"miab_basestore_blueprint\" : {\n"
+	serialised = serialised .. "\t\t\"boundingBoxSize\" : [\n"
+	serialised = serialised .. "\t\t\t" .. tostring(blueprint.boundingBoxSize[1]) .. ", " .. tostring(blueprint.boundingBoxSize[2]) .. "\n"
+	serialised = serialised .. "\t\t],\n"
+	serialised = serialised .. tableToJSON("\t\t", "blocksTable", blueprint.blocksTable, ",")
+	serialised = serialised .. "\t\t\"nextBlockId\" : " .. blueprint.nextBlockId .. ",\n"
+	serialised = serialised .. tableToJSON("\t\t", "layoutTableBackground", blueprint.layoutTableBackground, ",")
+	serialised = serialised .. tableToJSON("\t\t", "layoutTableForeground", blueprint.layoutTableForeground, ",")
+	serialised = serialised .. tableToJSON("\t\t", "objectTable", blueprint.objectTable, ",")
+	serialised = serialised .. tableToJSON("\t\t", "optionsTable", blueprint.optionsTable, ",")
+	serialised = serialised .. tableToJSON("\t\t", "accquiredItemsTable", blueprint.accquiredItemsTable, ",")
+	serialised = serialised .. tableToJSON("\t\t", "requiredItemsTable", blueprint.requiredItemsTable, "")
+	serialised = serialised .. "\t}\n}\n"
+	serialised = serialised .. "-------------------------------------------\nObject serialisation ends\n-------------------------------------------"
+	world.logInfo(serialised)
+end
+
+function tableToJSON(prefix, name, val, suffix)
+	local serialised = ""
+	if type(val) == "boolean" then
+		if val == true then
+			serialised = serialised .. prefix .. "\"" .. name .. "\" : true" .. suffix .. "\n"
+		else
+			serialised = serialised .. prefix .. "\"" .. name .. "\" : false" .. suffix .. "\n"
+		end
+	elseif type(val) == "number" then
+		serialised = serialised .. prefix .. "\"" .. name .. "\" : " .. tostring(val) .. suffix .. "\n"
+	elseif type(val) == "string" then
+		serialised = serialised .. prefix .. "\"" .. name .. "\" : \"" .. val .. "\"" .. suffix .. "\n"
+	elseif type(val) == "table" then
+		local _k, _v
+		local itemCount, itemCurrent
+		itemCount = blueprint.tablelength(val)
+		itemCurrent = 0
+		serialised = serialised .. prefix .. "\"" .. name .. "\" : {" .. "\n"
+		for _k, _v in pairs(val) do
+			itemCurrent = itemCurrent + 1
+			if itemCount == itemCurrent then
+				serialised = serialised .. tableToJSON(prefix .. "\t", _k, _v, "")
+			else
+				serialised = serialised .. tableToJSON(prefix .. "\t", _k, _v, ",")
+			end
+		end
+		serialised = serialised .. prefix .. "}" .. suffix .. "\n"
+	else
+		serialised = serialised .. prefix .. "\"" .. name .. "\" : \"Serialisation error: not basic type or table\"" .. suffix .. "\n"
+	end
+	return serialised
+end
+
+function blueprint.Dump_Rcp_JSON_OLD()
 	-- see: http://jsonlint.com/ for json validation tool
 	world.logInfo("-------------------------------------------")
 	world.logInfo("Recipe config serialisation:")
@@ -466,7 +540,7 @@ function blueprint.Dump_Rcp_JSON()
 	world.logInfo("-------------------------------------------")
 end
 
-function blueprint.Dump_Obj_JSON()
+function blueprint.Dump_Obj_JSON_OLD()
 	-- see: http://jsonlint.com/ for json validation tool
 	world.logInfo("-------------------------------------------")
 	world.logInfo("Blueprint config serialisation:")
@@ -489,7 +563,7 @@ function blueprint.Dump_Obj_JSON()
 	world.logInfo("-------------------------------------------")
 end
 
-function tableToJSON(prefix, name, val, suffix)
+function tableToJSON_OLD(prefix, name, val, suffix)
 	if type(val) == "boolean" then
 		if table == true then
 			world.logInfo(prefix .. "\"" .. name .. "\" : true" .. suffix)
@@ -520,7 +594,7 @@ function tableToJSON(prefix, name, val, suffix)
 	end
 end
 
-function toJSON(val)
+function toJSON_OLD(val)
 	if type(val) == "boolean" then
 		if val == true then
 			return "true"

@@ -35,8 +35,7 @@ function onActivation(args)
 		Reader_options.Spawn_Undigestables_Position = entity.toAbsolutePosition({ 0, 4 })
 		Reader_options.AreaToScan                   = define_area_to_scan();
 		Reader_options.useInventory                 = entity.configParameter("miab_useInventory", true);
-		Reader_options.Plot_Object_JSON             = false;
-		Reader_options.Plot_Recipe_JSON             = false;
+		Reader_options.Plot_JSON		    = entity.configParameter("miab_dumpJSON", true);
 		Reader_options.Length_of_BP_Animation_in_s  = 3
 		
 		--[[ This is me debugging world.objectQuery()
@@ -53,7 +52,7 @@ function onActivation(args)
 		--]]
 		if(Reader_options.AreaToScan ~= nil) then
 			-- start reading process
-			world.logInfo("READ_START ABOUT TO CALL")
+			--world.logInfo("READ_START ABOUT TO CALL")
 			Read_Start(Reader_options);
 			Done_reading = false;
 		end
@@ -187,6 +186,7 @@ end
 -- returns the number of scanning corners connected to our outbound node
 function countConnectedCorners()
 	local count = 0
+	--[[ this no longer works, now the entity name is the key rather than the value in the table? because reasons, i guess
 	for i,nodes_j in pairs(entity.getOutboundNodeIds(0)) do
 		for i_nodes,node_ID in pairs(nodes_j) do
 			if (i_nodes == 1) then
@@ -197,7 +197,13 @@ function countConnectedCorners()
 			end
 		end
 	end
-
+	--]]
+	for node_ID, j in pairs(entity.getOutboundNodeIds(0)) do
+		if world.entityName(node_ID) == "miab_basestore_receiver" then
+			count = count + 1
+			self.corners[count] = node_ID
+		end
+	end
 	return count
 end
 

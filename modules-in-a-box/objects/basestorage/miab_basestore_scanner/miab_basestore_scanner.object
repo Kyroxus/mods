@@ -4,7 +4,7 @@
 	"description" : "Scans a building, then absorbs it and produces a printer for reconstruction",
 	"shortdescription" : "Building Scanner",
 	"race" : "generic",
-	"category" : "wire",
+	"category" : "tool",
 	"price" : 1,
 	"printable" : false,
 	
