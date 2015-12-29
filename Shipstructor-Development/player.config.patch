@@ -1,8 +1,0 @@
-[
-//Debug Remove For Release
-
-	{"op":"add","path":"/defaultItems/-","value":{"item":"humanshipvent","count":1} }
-
-//Blueprints
-
-]

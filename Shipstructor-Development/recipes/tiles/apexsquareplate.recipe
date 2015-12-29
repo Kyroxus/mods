@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "apexshiphull", "count" : 1 }
-  ],
-  "output" : { "item" : "apexsquareplate", "count" : 3 },
-  "groups" : [ "craftingtable", "materials", "all" ]
-}

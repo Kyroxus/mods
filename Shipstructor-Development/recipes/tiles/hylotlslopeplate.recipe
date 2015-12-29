@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "hylotlshiphull", "count" : 1 }
-  ],
-  "output" : { "item" : "hylotlslopeplate", "count" : 3 },
-  "groups" : [ "craftingtable", "materials", "all" ]
-}
