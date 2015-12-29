@@ -1,0 +1,58 @@
+{
+    "config": {
+        "shipUpgrades": {
+            "capabilities": [],
+            "maxFuel": 100
+        }
+    },
+    "backgroundOverlays": [
+        {
+            "image": "frigate_back.png",
+            "position": [
+                0.0,
+                0.0
+            ],
+            "fullbright": true
+        },
+        {
+            "image": "frigate_front.png",
+            "position": [
+                149.0,
+                0.0
+            ],
+            "fullbright": true
+        },
+        {
+            "image": "frigate_back_lit.png",
+            "position": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "image": "frigate_front_lit.png",
+            "position": [
+                149.0,
+                0.0
+            ]
+        },
+		{
+            "image": "frigate_decal_0_back.png",
+            "position": [
+                0.0,
+                0.0
+            ],
+            "fullbright": true
+        },
+        {
+            "image": "frigate_decal_0_front.png",
+            "position": [
+                149.0,
+                0.0
+            ],
+            "fullbright": true
+        }
+    ],
+    "blockKey": "blockKey.config:blockKey",
+    "blockImage": "frigate0blocks.png"
+}

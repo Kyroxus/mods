@@ -1,0 +1,11 @@
+{
+  "name" : "Logistics Frigate Reborn",
+  "version" : "Beta v. Spirited Giraffe - Update 5",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata": {
+    "author" : "graycatgrayhat",
+    "description" : "Logistics Frigate Reborn v4.0",
+    "support_url" : "http://community.playstarbound.com/resources/logistics-frigate-reborn.2963/"
+        }
+}
