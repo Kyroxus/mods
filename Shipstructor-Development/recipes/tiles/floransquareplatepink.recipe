@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "floranpinkhull", "count" : 1 }
+  ],
+  "output" : { "item" : "floransquareplatepink", "count" : 3 },
+  "groups" : [ "craftingtable", "materials", "all" ]
+}

@@ -1,0 +1,15 @@
+{
+  "modId" : 21201,
+  "modName" : "humanslopeplate",
+  "description" : "Fancy sloped platting, adds some detail to a ship.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 0,
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "/tiles/materials/hullplating/humanslopeplate.png",
+    "variants" : 1,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

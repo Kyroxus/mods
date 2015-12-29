@@ -1,0 +1,73 @@
+[ 
+  { "op": "add", "path": "/printable", "value": true },
+  { "op": "remove", "path": "/animationParts"},
+  { "op": "replace", "path": "/animationPosition", "value": [0, 0] },
+  { "op": "replace", "path": "/orientations", "value": [
+    {
+      "dualImage" : "glitchshipdoor.png:default",
+      "imagePosition" : [2, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "animationParts" :
+      {
+        "door" : "glitchshipdoor.png"
+      },
+      "animationPosition" : [2, 0]
+    },
+    {
+      "dualImage" : "glitchshipdoor4.png:default",
+      "imagePosition" : [2, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "glitchshipdoor4.png"
+      },
+      "animationPosition" : [2, 0]
+    },
+    {
+      "dualImage" : "glitchshipdoor6.png:default",
+      "imagePosition" : [2, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "glitchshipdoor6.png"
+      },
+      "animationPosition" : [2, 0]
+    },
+    {
+      "dualImage" : "glitchshipdoorH.png:default",
+      "imagePosition" : [0, 2],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "glitchshipdoorH.png"
+      },
+      "animationPosition" : [0, 2]
+    },
+    {
+      "dualImage" : "glitchshipdoorH4.png:default",
+      "imagePosition" : [0, 2],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "glitchshipdoorH4.png"
+      },
+      "animationPosition" : [0, 2]
+    },
+    {
+      "dualImage" : "glitchshipdoorH6.png:default",
+      "imagePosition" : [0, 2],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "glitchshipdoorH6.png"
+      },
+      "animationPosition" : [0, 2] 
+    }]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "avianshiphull", "count" : 1 }
+  ],
+  "output" : { "item" : "avianslopeplate", "count" : 3 },
+  "groups" : [ "craftingtable", "materials", "all" ]
+}

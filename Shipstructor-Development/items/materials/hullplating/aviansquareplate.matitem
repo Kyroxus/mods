@@ -1,0 +1,12 @@
+{
+  "itemName" : "aviansquareplate",
+  "rarity" : "Common",
+  "inventoryIcon" : "avianformedplate.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Avian Square Plate",
+  "description" : "Fancy plating to add some detail to a ship.",
+  "glitchDescription" : "Statement. square plate.",
+  "floranDescription" : "Ssship platesss.",
+
+  "materialId" : 21012
+}

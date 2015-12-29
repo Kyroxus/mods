@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "novakidbrasshull", "count" : 1 }
+  ],
+  "output" : { "item" : "novakidsquareplatebrass", "count" : 3 },
+  "groups" : [ "craftingtable", "materials", "all" ]
+}

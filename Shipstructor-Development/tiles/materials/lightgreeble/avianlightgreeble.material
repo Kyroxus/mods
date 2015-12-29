@@ -1,0 +1,24 @@
+{
+  "materialId" : 21053,
+  "materialName" : "avianlightgreeble",
+  "particleColor" : [217, 232, 233, 255],
+  "itemDrop" : "avianlightgreeble",
+  "shortdescription" : "Avian Light Greeble",
+  "description" : "Fancy dynamic Lighting for your ship.",
+  "glitchDescription" : "Question. What is Light?",
+  "floranDescription" : "Ssship lightss.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 16,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "avianlightgreeble.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0,
+    "radiantLight" : [220, 200, 200]
+  }
+}

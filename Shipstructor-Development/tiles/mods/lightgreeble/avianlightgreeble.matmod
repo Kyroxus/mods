@@ -1,0 +1,16 @@
+{
+  "modId" : 21053,
+  "modName" : "avianlightgreeble",
+  "description" : "Fancy dynamic Lighting for your ship.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 0,
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "/tiles/materials/hullplating/avianlightgreeble.png",
+    "variants" : 1,
+    "multiColored" : true,
+    "zLevel" : 0,
+    "radiantLight" : [220, 200, 200]
+  }
+}

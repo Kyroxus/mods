@@ -1,0 +1,22 @@
+{
+  "objectName" : "humanenginecore",
+    "rarity" : "Common",
+  "description" : "It's a dud!",
+  "shortdescription" : "Human Engine Core",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "humanenginecore.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

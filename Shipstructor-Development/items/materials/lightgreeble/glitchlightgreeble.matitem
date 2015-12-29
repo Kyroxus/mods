@@ -1,0 +1,12 @@
+{
+  "itemName" : "glitchlightgreeble",
+  "rarity" : "Common",
+  "inventoryIcon" : "glitchlightgreeble.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Glitch Light Greeble",
+  "description" : "Fancy dynamic Lighting for your ship.",
+  "glitchDescription" : "Question. What is Light?",
+  "floranDescription" : "Ssship lightss.",
+
+  "materialId" : 21153
+}

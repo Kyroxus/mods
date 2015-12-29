@@ -1,0 +1,74 @@
+[ 
+  { "op": "add", "path": "/printable", "value": true },
+  { "op": "replace", "path": "/shortdescription", "value": "Apex Ship Door" },
+  { "op": "remove", "path": "/animationParts"},
+  { "op": "replace", "path": "/animationPosition", "value": [0, 0] },
+  { "op": "replace", "path": "/orientations", "value": [
+    {
+      "dualImage" : "apexshipdoor.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "animationParts" :
+      {
+        "door" : "apexshipdoor.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "apexshipdoor4.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "apexshipdoor4.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "apexshipdoor6.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "apexshipdoor6.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "apexshipdoorH.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "apexshipdoorH.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "apexshipdoorH4.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "apexshipdoorH4.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "apexshipdoorH6.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "apexshipdoorH6.png"
+      },
+      "animationPosition" : [0, 0] 
+    }]
+  }
+]
