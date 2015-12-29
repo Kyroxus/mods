@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "humanshiphull", "count" : 1 }
-  ],
-  "output" : { "item" : "humanslopeplate", "count" : 3 },
-  "groups" : [ "craftingtable", "materials", "all" ]
-}

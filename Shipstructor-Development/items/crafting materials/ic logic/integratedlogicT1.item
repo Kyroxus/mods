@@ -1,8 +1,0 @@
-{
-  "itemName" : "integratedlogicT1",
-  "rarity" : "Common",
-  "inventoryIcon" : "integratedlogicT1.png",
-  "description" : "A basic and simple integrated logic chip",
-  "category" : "Circuit Chips",
-  "shortdescription" : "^cyan;Small Chip^white;"
-}
