@@ -1,0 +1,8 @@
+{
+  "itemName" : "integratedlogicT3",
+  "rarity" : "rare",
+  "inventoryIcon" : "integratedlogicT3.png",
+  "description" : "Its a Circuit Board, has many integrated compontents on it",
+  "category" : "Circuit Chips",
+  "shortdescription" : "^cyan;Circuit Board^white;"
+}

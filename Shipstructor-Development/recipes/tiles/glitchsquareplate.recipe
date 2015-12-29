@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "glitchshiphull", "count" : 1 }
+  ],
+  "output" : { "item" : "glitchslopeplate", "count" : 3 },
+  "groups" : [ "craftingtable", "materials", "all" ]
+}

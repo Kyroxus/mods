@@ -1,0 +1,8 @@
+{
+  "itemName" : "integratedlogicT2",
+  "rarity" : "uncommon",
+  "inventoryIcon" : "integratedlogicT2.png",
+  "description" : "This CPU keeps your machines Running smooth",
+  "category" : "Circuit Chips",
+  "shortdescription" : "^cyan;CPU^white;"
+}

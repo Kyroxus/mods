@@ -1,0 +1,16 @@
+{
+  "modId" : 21103,
+  "modName" : "floranlightgreeblecyan",
+  "description" : "Fancy dynamic Lighting for your ship.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.wav",
+  "health" : 0,
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "/tiles/materials/hullplating/floranlightgreeblecyan.png",
+    "variants" : 1,
+    "multiColored" : true,
+    "zLevel" : 0,
+    "radiantLight" : [220, 200, 220]
+  }
+}

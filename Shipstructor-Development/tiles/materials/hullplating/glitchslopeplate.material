@@ -1,0 +1,23 @@
+{
+  "materialId" : 21151,
+  "materialName" : "glitchslopeplate",
+  "particleColor" : [217, 232, 233, 255],
+  "itemDrop" : "glitchslopeplate",
+  "shortdescription" : "Glitch Slope Plate",
+  "description" : "Fancy plating to add some detail to a ship.",
+  "glitchDescription" : "Statement. slope plate.",
+  "floranDescription" : "Ssship platesss.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.wav",
+  "health" : 16,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "glitchslopeplate.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

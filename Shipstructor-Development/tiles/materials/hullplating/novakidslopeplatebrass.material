@@ -1,0 +1,23 @@
+{
+  "materialId" : 21301,
+  "materialName" : "novakidslopeplatebrass",
+  "particleColor" : [217, 232, 233, 255],
+  "itemDrop" : "novakidslopeplatebrass",
+  "shortdescription" : "Novakid Slope Plate Brass",
+  "description" : "Fancy plating to add some detail to a ship.",
+  "glitchDescription" : "Statement. slope plate.",
+  "floranDescription" : "Ssship platesss.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.wav",
+  "health" : 16,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "novakidslopeplatebrass.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

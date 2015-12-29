@@ -1,0 +1,39 @@
+{
+  "objectName" : "humanquestconsole",
+  "rarity" : "Legendary",
+  "printable" : true,
+  "description" : "Communicate with the outpost to accept and turn in quests.",
+  "shortdescription" : "^orange;Quest Console^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 100,
+
+  "apexDescription" : "I can communicate with the outpost from here.",
+  "avianDescription" : "This will allow me to obtain quests from my ship.",
+  "floranDescription" : "Floran ssspeak with outpost!",
+  "glitchDescription" : "Statement. With this, I can accept quests without travelling long distances.",
+  "humanDescription" : "Cool, I can send and receive messages between the outpost from here.",
+  "hylotlDescription" : "One must learn to trust by voice alone, and accept the quests that follow.",
+
+  "inventoryIcon" : "humanquestconsoleicon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "humanquestconsole.png:<color>.<frame>", "fullbright" : true }, { "image" : "humanquestconsolelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, -8],
+      "frames" : 11,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+  "offeredQuests" : [
+	"penguinmission.gearup", "outpostSkin.gearup", "heatskin1.gearup", "coldskin1.gearup", "kelpquest.gearup", "outpost0.gearup", "outpost1.gearup", "outpost2.gearup", "outpost3.gearup", "bountyhunter1.gearup", "floranfan1.gearup", "hylotlperformer1.gearup", "apexmechanic2.gearup", "avianrefugee2part1.gearup", "avianrefugee2part2.gearup", "bountyhunter2.gearup", "floranscholar2.gearup", "glitchsilenttype2.gearup", "humanexcon2.gearup", "humansurvivor2.gearup", "avianexplorer3.gearup", "bountyhunter3.gearup", "glitchsilenttype3.gearup", "hylotlperformer3.gearup", "apexrefugee4.gearup", "avianexplorer4.gearup", "avianmercenary4.gearup", "bountyhunter4.gearup", "floranhunter4.gearup", "humanexcon4.gearup", "license1.gearup", "license2.gearup", "license3.gearup", "license4.gearup", "license5.gearup", "avianrefugeeE1.gearup", "avianrefugeeE2.gearup", "humanscientistE1.gearup", "hylotlperformerE1.gearup", "hylotlperformerE2part1.gearup", "hylotlperformerE2part2.gearup", "hylotlwarriorE1.gearup", "hylotlwarriorE2.gearup", "penguinpromoterE1.gearup"
+  ],
+  "turnInQuests" : [
+    "penguinmission3.gearup", "penguinmission.gearup", "outpostSkin.gearup", "heatskin1.gearup", "coldskin1.gearup", "coldskin3.gearup", "kelpquest.gearup", "outpost0.gearup", "outpost1.gearup", "outpost2.gearup", "outpost3.gearup", "bountyhunter1.gearup", "floranfan1.gearup", "hylotlperformer1.gearup", "apexmechanic2.gearup", "avianrefugee2part1.gearup", "avianrefugee2part2.gearup", "bountyhunter2.gearup", "floranscholar2.gearup", "glitchsilenttype2.gearup", "humanexcon2.gearup", "humansurvivor2.gearup", "avianexplorer3.gearup", "bountyhunter3.gearup", "glitchsilenttype3.gearup", "hylotlperformer3.gearup", "apexrefugee4.gearup", "avianexplorer4.gearup", "avianmercenary4.gearup", "bountyhunter4.gearup", "floranhunter4.gearup", "humanexcon4.gearup", "license1.gearup", "license2.gearup", "license3.gearup", "license4.gearup", "license5.gearup", "avianrefugeeE1.gearup", "avianrefugeeE2.gearup", "humanscientistE1.gearup", "hylotlperformerE1.gearup", "hylotlperformerE2part1.gearup", "hylotlperformerE2part2.gearup", "hylotlwarriorE1.gearup", "hylotlwarriorE2.gearup", "penguinpromoterE1.gearup"
+  ]
+}

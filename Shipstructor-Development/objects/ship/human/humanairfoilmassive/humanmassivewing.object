@@ -1,0 +1,22 @@
+{
+  "objectName" : "humanmassivewing",
+    "rarity" : "Common",
+  "description" : "It's Still Smaller Than MY - ",
+  "shortdescription" : "Massive Human Wing",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+  "printable" : false,
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "humanmassivewing.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

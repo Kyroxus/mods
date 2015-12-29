@@ -1,0 +1,73 @@
+[ 
+  { "op": "add", "path": "/printable", "value": true },
+  { "op": "remove", "path": "/animationParts"},
+  { "op": "replace", "path": "/animationPosition", "value": [0, 0] },
+  { "op": "replace", "path": "/orientations", "value": [
+    {
+      "dualImage" : "avianshipdoor.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "animationParts" :
+      {
+        "door" : "avianshipdoor.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "avianshipdoor4.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "avianshipdoor4.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "avianshipdoor6.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "avianshipdoor6.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "avianshipdoorH.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "avianshipdoorH.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "avianshipdoorH4.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "avianshipdoorH4.png"
+      },
+      "animationPosition" : [0, 0]
+    },
+    {
+      "dualImage" : "avianshipdoorH6.png:default",
+      "imagePosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "avianshipdoorH6.png"
+      },
+      "animationPosition" : [0, 0] 
+    }]
+  }
+]

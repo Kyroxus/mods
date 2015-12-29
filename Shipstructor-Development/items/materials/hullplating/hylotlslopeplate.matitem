@@ -1,0 +1,12 @@
+{
+  "itemName" : "hylotlslopeplate",
+  "rarity" : "Common",
+  "inventoryIcon" : "hylotlformedplate.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Hylotl Slope Plate",
+  "description" : "Fancy plating to add some detail to a ship.",
+  "glitchDescription" : "Statement. slope plate.",
+  "floranDescription" : "Ssship platesss.",
+
+  "materialId" : 21051
+}

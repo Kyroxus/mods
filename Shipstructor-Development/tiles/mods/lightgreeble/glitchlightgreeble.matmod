@@ -1,0 +1,16 @@
+{
+  "modId" : 21153,
+  "modName" : "glitchlightgreeble",
+  "description" : "Fancy square platting, adds some detail to a ship.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.wav",
+  "health" : 0,
+
+  "renderTemplate" : "/tiles/shiptrimtemplate.config",
+  "renderParameters" : {
+    "texture" : "/tiles/materials/hullplating/glitchlightgreeble.png",
+    "variants" : 1,
+    "multiColored" : true,
+    "zLevel" : 0,
+    "radiantLight" : [200, 220, 200]
+  }
+}

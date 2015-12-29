@@ -1,0 +1,15 @@
+{
+  "projectileName" : "hullbreach",
+  "level" : 1,
+  "frames" : "hullbreachnone.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "emitters" : [ "hullbreachdust" ],
+  "speed" : 0,
+  "fallSpeed" : 0,
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : false,
+  "universalDamage" : false,
+  "damageKind" : "default"
+}

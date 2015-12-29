@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "apexshiphullcomplexalt", "count" : 1 }
+  ],
+  "output" : { "item" : "apexslopeplate", "count" : 3 },
+  "groups" : [ "craftingtable", "materials", "all" ]
+}

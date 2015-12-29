@@ -1,0 +1,73 @@
+[ 
+  { "op": "add", "path": "/printable", "value": true },
+  { "op": "remove", "path": "/animationParts"},
+  { "op": "replace", "path": "/animationPosition", "value": [0, 0] },
+  { "op": "replace", "path": "/orientations", "value": [
+    {
+      "dualImage" : "hylotlshipdoor.png:default",
+      "imagePosition" : [1, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "animationParts" :
+      {
+        "door" : "hylotlshipdoor.png"
+      },
+      "animationPosition" : [1, 0]
+    },
+    {
+      "dualImage" : "hylotlshipdoor4.png:default",
+      "imagePosition" : [1, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "hylotlshipdoor4.png"
+      },
+      "animationPosition" : [1, 0]
+    },
+    {
+      "dualImage" : "hylotlshipdoor6.png:default",
+      "imagePosition" : [1, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom", "top"],
+      "animationParts" :
+      {
+        "door" : "hylotlshipdoor6.png"
+      },
+      "animationPosition" : [1, 0]
+    },
+    {
+      "dualImage" : "hylotlshipdoorH.png:default",
+      "imagePosition" : [0, 1],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "hylotlshipdoorH.png"
+      },
+      "animationPosition" : [0, 1]
+    },
+    {
+      "dualImage" : "hylotlshipdoorH4.png:default",
+      "imagePosition" : [0, 1],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "hylotlshipdoorH4.png"
+      },
+      "animationPosition" : [0, 1]
+    },
+    {
+      "dualImage" : "hylotlshipdoorH6.png:default",
+      "imagePosition" : [0, 1],
+      "spaceScan" : 0.1,
+      "anchors" : ["left", "right"],
+      "animationParts" :
+      {
+        "door" : "hylotlshipdoorH6.png"
+      },
+      "animationPosition" : [0, 1] 
+    }]
+  }
+]
