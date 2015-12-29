@@ -1,0 +1,15 @@
+{
+  "id" : "madtulip_avian_scoutship.gearup",
+  "title" : "^orange;Unlock Avian Scout Ship",
+  "text" : "Unlocking of the Avian Scout Ship tech.",
+  "completionText" : "Avian Scout Ship tech has been unlocked. Now you may activate it in your S.A.I.L. interface.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "madtulip_avian_scoutshipTech-chip", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [0, 0],
+  "enableTech" : [
+    "madtulip_avian_scoutship"
+  ],
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}

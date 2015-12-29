@@ -1,0 +1,15 @@
+{
+  "id" : "madtulip_floran_scoutship.gearup",
+  "title" : "^orange;Unlock Floran Scout Ship",
+  "text" : "Unlocking of the Floran Scout Ship tech.",
+  "completionText" : "Floran Scout Ship tech has been unlocked. Now you may activate it in your S.A.I.L. interface.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "madtulip_floran_scoutshipTech-chip", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [0, 0],
+  "enableTech" : [
+    "madtulip_floran_scoutship"
+  ],
+  "canBeAbandoned" : false,
+  "followUp" : ""
+}
